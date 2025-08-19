@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: hello world!
+draft: false
+tags:
+  - testing
+date: 2025-08-20
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Figuring this out?
+Is this supposed to be my index page haha
