@@ -16,7 +16,7 @@ According to Wikipedia, a rhizome is "the main stem of the plant that runs under
   
 I like the latency of this metaphor. Imagining my tiny foraged bits of information as little roots, quietly holding potential and possibilities to flourish into wholly new beings. I will plant them, and occasionally tend to them, and witness my garden slowly unfurl into a wondrous, shifting multiplicity! 🌀🍄🌾👩‍🌾
 
-I'm slowly migrating from [bearblog](bearblog.dev) to personally hosting this on Obsidian and Quartz(the site generator that turns my markdown documents into this living, breathing site! wild.). I really like how *local* and *personal* it feels. Jacky's reflections on Quartz as an agentic software really resonates with me.
+I'm slowly migrating from [bearblog](https://bearblog.dev/) to personally hosting this on Obsidian and Quartz(the site generator that turns my markdown documents into this living, breathing site! wild.). I really like how *local* and *personal* it feels. Jacky's reflections on Quartz as an agentic software really resonates with me.
 
 >"***Quartz should feel powerful but ultimately be an intuitive tool fully within your control.** It should be a piece of [agentic software](https://jzhao.xyz/posts/agentic-computing). Ultimately, it should have the right affordances to nudge users towards good defaults but never dictate what the ‘correct’ way of using it is.*"[^2]
 
@@ -24,4 +24,4 @@ I really enjoy tinkering with bearblog's interface, but I'm equally excited to d
 
 [^1]: [https://en.wikipedia.org/wiki/Rhizome](https://en.wikipedia.org/wiki/Rhizome)
 
-[^2]: https://quartz.jzhao.xyz/philosophy#a-garden-should-be-your-own
+[^2]: [https://quartz.jzhao.xyz/philosophy#a-garden-should-be-your-own](https://quartz.jzhao.xyz/philosophy#a-garden-should-be-your-own)
