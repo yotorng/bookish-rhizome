@@ -2,7 +2,7 @@
 title: 🫚Gingerly,,,what's in a name?
 draft: false
 tags:
-  - testing
+  - rhizome
 date: 2025-08-20
 ---
 
