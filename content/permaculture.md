@@ -2,6 +2,7 @@
 title: permaculture
 draft: false
 tags:
+  - "#composting"
 date:
 ---
 i want to start meaningfully document my permaculture learning journey!! so much...to learn...
