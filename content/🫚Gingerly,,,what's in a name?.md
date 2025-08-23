@@ -2,25 +2,33 @@
 title: 🫚Gingerly,,,what's in a name?
 draft: false
 tags:
-  - rhizome
 date: 2025-08-20
 ---
-
-I came across the concept of 🌱[digital gardens](https://maggieappleton.com/garden-history?ref=ideasurg.pub)🌱 sometime two years back, and I've been thinking about them ever since. The concept was so compelling - devoting one's labour to accumulate personal knowledge in a tiny, online space. Where messy ideas take root and slowly grow into an entangled mishmash of knowledge. Your very own library, if you will!!  
+I first came across the concept of 🌱[digital gardens](https://maggieappleton.com/garden-history?ref=ideasurg.pub)🌱 sometime two years back, and I've been thinking about them ever since. The concept was so compelling - devoting one's labour to accumulate personal knowledge in a tiny, online space. Where messy ideas take root and slowly grow into an entangled mishmash of knowledge. Your very own library, if you will!!  
   
 So welcome to _Bookish Rhizome_, this digital garden of my own!  
 ˚ ༘ ೀ ⚘˙⋆｡˚❍୭ ̥̣̩⋆˚₊⍋˚❀⋆.ೃ࿔･❃ུ۪  
 
-_Thinking through rhizomes: on roots, accumulation, and potential~_  
+### _Thinking through rhizomes: on roots, accumulation, and potential~_  
 According to Wikipedia, a rhizome is "the main stem of the plant that runs underground...the plant uses the rhizome to store starches, proteins, and other nutrients."[^1][1](https://bookish-rhizome.bearblog.dev/gingerlywhats-in-a-name/#fn-1) These nutrients are useful in an array of manners: to bear new life if the plant dies during winter, or if the rhizome is separated from the original plant.  
   
 I like the latency of this metaphor. Imagining my tiny foraged bits of information as little roots, quietly holding potential and possibilities to flourish into wholly new beings. I will plant them, and occasionally tend to them, and witness my garden slowly unfurl into a wondrous, shifting multiplicity! 🌀🍄🌾👩‍🌾
 
-I'm slowly migrating from [bearblog](https://bearblog.dev/) to personally hosting this on Obsidian and Quartz(the site generator that turns my markdown documents into this living, breathing site! wild.). I really like how *local* and *personal* it feels. Jacky's reflections on Quartz as an agentic software really resonates with me.
+I'm slowly migrating from [bearblog](https://bearblog.dev/) to personally hosting this on Obsidian and Quartz (the site generator that turns my markdown documents into this living, breathing site! wild.). I really like how *local* and *personal* it feels. Jacky's reflections on Quartz as an agentic software also really resonates with me.
 
 >"***Quartz should feel powerful but ultimately be an intuitive tool fully within your control.** It should be a piece of [agentic software](https://jzhao.xyz/posts/agentic-computing). Ultimately, it should have the right affordances to nudge users towards good defaults but never dictate what the ‘correct’ way of using it is.*"[^2]
 
-I really enjoy tinkering with bearblog's interface, but I'm equally excited to dabble further into growing and tending to this digital garden.
+I really enjoy tinkering with bearblog's interface, but I'm equally excited to dabble further into growing and tending to this digital garden. We're off to a relatively janky-ish start. I had to go through the painful process of clearing my storage, installing system updates on my laptop and then set both Obsidian and Quartz up. It was relatively smooth-sailing, and I relied on whatever remnants of my (very obsolete)programming knowledge to just slowly troubleshoot and figure this out. I've forgotten how pleasing VSCode's layout is, much less how rewarding when you've successfully debugged something(with the help of many, many references to stack overflow/documentation/random youtube tutorials - thank you ~collective knowledge~). 
+
+This ties back in further to my own intentions:
+1. to be comfortable with [[friction]], slowness, and uncertainty. to also commit to it.
+trying not to be too hard pressed over the minute workings of this application, learning to grow and groove with it, to just start first and then slowly work out a comfortable rhythm. to also lift myself from the pressure of producing final, presentable, publishable works. to embrace works-in-progress, and a slower pace of marinating, simmering,,, also thinking about how tending to a garden is also an act of care and responsibility, wanting to show myself the same grace, patience and committment. 
+2. thinking, dreaming, and creating critically!! (always!)
+
+3. playing with connected, interwoven thought 
+research as a leisure activity, worlds that i want to venture into
+
+
 
 [^1]: [https://en.wikipedia.org/wiki/Rhizome](https://en.wikipedia.org/wiki/Rhizome)
 

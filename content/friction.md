@@ -1,0 +1,17 @@
+---
+title: Friction
+draft: false
+tags:
+date: 2025-08-21T00:00:00
+---
+>"the cost of distraction is who you could have become. we talk about distraction like it's harmless, [but] distraction doesn't just steal your time, it steals your becoming. everytime you reach for the easier thing, you walk a little further from the version of you that requires focus, intention, presence. you weren't meant to be available to everything, you're meant to devoted to something. when you trade death for noise, you don't just miss out on doing more, you miss out on being more."— an absolutely [absurd yet powerful instagram reel from user @/wenevergetyounger](https://www.instagram.com/reel/DIXq_kjtZW7)
+
+Recently I've been thinking about the concept of friction a lot more. There is meaning in friction, the chafing against, the chipping away. Life isn't meant to be a slippery, smooth, magical joyride.
+
+> "what would happen to your life if you gave your attention the same loyalty you gave your impulses? that version of you still exists, but you won't meet them in the middle of constant interruption." — the [absurdity continues and I am in awe of it all](https://www.instagram.com/reel/DIXq_kjtZW7/)
+
+I've been trying to unpack the myths surrounding tech, efficiency, and an effortless life. Life is valuable precisely because of the effort!! What on earth are we endlessly optimising for, if not for the here and now? Life is not just about avoiding unhappiness. As artist Yumi Sakugawa alludes in their doodles: "Friction is good! Friction is what makes the flow ⟡so good⟡."
+
+- trying to embrace friction, to come to terms with my struggles, to stick through with the messy middles (the initial excitement of starting is gone, the clarity of finishing isn't here yet), to continue choosing uncomfortable enlargements over comfortable diminishments
+- plasticity!!
+- slippery smooth endless scrolling all the way down...trying to break free of that!!
