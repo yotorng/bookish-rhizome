@@ -1,7 +1,8 @@
 ---
-title: Friction
+title: friction
 draft: false
 tags:
+  - "#composting"
 date: 2025-08-21T00:00:00
 ---
 >"the cost of distraction is who you could have become. we talk about distraction like it's harmless, [but] distraction doesn't just steal your time, it steals your becoming. everytime you reach for the easier thing, you walk a little further from the version of you that requires focus, intention, presence. you weren't meant to be available to everything, you're meant to devoted to something. when you trade death for noise, you don't just miss out on doing more, you miss out on being more."— an absolutely [absurd yet powerful instagram reel from user @/wenevergetyounger](https://www.instagram.com/reel/DIXq_kjtZW7)
