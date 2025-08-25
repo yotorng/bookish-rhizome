@@ -11,6 +11,7 @@ date: 2025-08-20
 ✿ 𓅰 Hello! I'm yitorng, and welcome to _bookish rhizome_, my digital garden. ៹﹆. Its namesake can be found [[2025.08.20|here]]. Just like a rhizome, this digital garden will be a rough assemblage of reflections, reads, and random residual notes. I'm excited to tend to this garden on this corner of the internet, and curious to see how it grows! 
 
 Visit
+
 ☞︎︎︎  📖🍄🧺the [[/The Library/|library]], for an array of foraged materials and resources ᝰ. 𓆱 ೃ࿔ ུ
 
 ☞︎︎︎ 🪱🐌 the compost heap, tagged #composting, for all thoughts-in-progress 𓆑𓋼𓍊𓋼𓍊⋆˙𓍊₊ ⊹˚
