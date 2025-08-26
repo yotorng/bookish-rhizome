@@ -4,7 +4,6 @@ draft: true
 tags:
 date:
 ---
-
 On complexity & thinking with trees - Shannon Mattern
 >"I arrived at thinking about trees in part because I think this mode of thinking of technosolutionism applies both in the previous work I was doing on cities where you have these systemic deeply, historically rooted problems of social injustice, of disrepair that are highly systemic and complex in both the causes and then their potential solutions. And then you have service providers coming in and offering a computational model that will not only diagnose all of the problems, but pinpoint exactly where solutions are to be deployed in kind of precision ways or precision methods. We have a similar mentality applied then to ecological challenges. **The tree was a really nice, not only metaphor, but also kind of instrument or a rhetorical hinge to go between thinking about cities and thinking about ecology, because, you know, you have the decision tree as a type of algorithm**. 
 >

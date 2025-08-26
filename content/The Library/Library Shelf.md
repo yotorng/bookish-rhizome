@@ -12,6 +12,7 @@ _Books that I have read._
 - [[permaculture|Permaculture]]: Principles & Pathways Beyond Sustainability by David Holmgren
 - Everything for Everyone: An Oral History of the New York Commune, 2052–2072 by Eman Abdelhadi, M.E. O'Brien
 - Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence by Kate Crawford
+- [[Empire of AI Dreams and Nightmares in Sam Altman's OpenAI|Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI]] by Karen Hao
 
 # 2025
 - Sister Snake by Amanda Lee Koe
@@ -20,7 +21,7 @@ _Books that I have read._
 - Several People Are Typing by Calvin Kasulke
 - 101 Things I Learned in Urban Design School by Matthew Frederick & Vikas Mehta
 - These Savage Shores by Ram V
-- [[The Serviceberry An Economy of Gifts and Abundance by Robin Wall Kimmerer|The Serviceberry: An Economy of Gifts and Abundance by Robin Wall Kimmerer]]
+- [[The Serviceberry An Economy of Gifts and Abundance by Robin Wall Kimmerer|The Serviceberry: An Economy of Gifts and Abundance]] by Robin Wall Kimmerer
 - The Labyrinth House Murders by Yukito Ayatsuji
 - Skip by Molly Mendoza
 - The Kamogawa Food Detectives by Hisashi Kashiwai
