@@ -25,8 +25,7 @@ const config: QuartzConfig = {
       typography: {
         header: {
           name: "Noto Serif",
-          weights: [300,400],
-          width: 75
+          weights: [300,300],
           },
 
         body: "Source Sans Pro",
