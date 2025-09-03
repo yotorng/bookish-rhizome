@@ -96,7 +96,7 @@ _Books that I have read._
 - Ooko by Esmé Shapiro
 - The Sorcerer of Pyongyang: A Novel by Marcel Theroux
 - Afterlife: The Boy Next Realm by Gina Chew
-- Staying with the Trouble: Making Kin in the Chthulucene by Donna J. Haraway ✿
+- [[Tentacular Thinking Anthropocene, Capitalocene, Chthulucene|Staying with the Trouble: Making Kin in the Chthulucene by Donna J. Haraway]] ✿
 - Beautiful World, Where Are You by Sally Rooney
 - The Complete Maus by Art Spiegelman
 - We Found A Hat by Jon Klassen

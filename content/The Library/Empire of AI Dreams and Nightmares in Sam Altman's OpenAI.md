@@ -43,8 +43,6 @@ Karen posits that "we don't need to accept the logic of unprecedented scale and 
 - advance international labour norms and laws - give data labelers guaranteed wage minimums and humane working conditions
 - shore up labour rights, guarantee access to dignified economic opportunities across all sectors and industries
 - Fund renewed diversity in AI research
-- resist narratives that OpenAI and the AI have told us to hide the mounting social and enviornmental costs of this technology behind an elusive vision of progress.
-
-
+- resist narratives that OpenAI and the AI have told us to hide the mounting social and environmental costs of this technology behind an elusive vision of progress.
 
 # 

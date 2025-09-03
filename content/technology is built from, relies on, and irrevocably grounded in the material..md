@@ -6,5 +6,7 @@ tags:
 date: 2025-08-27T00:39:00
 ---
 tech materialities 
+
 resources and infrastructure
+
 the digital provides an allusion of immaterialness
