@@ -5,6 +5,7 @@ tags:
 date: 2025-08-26T23:52:00
 ---
 Book by Karen Hao
+
 2025
 # Prologue: A Run For The Throne
 - OpenAI initially started as an 'altruistic' commitment to the development of the so-call artificial general intelligence
@@ -45,3 +46,5 @@ Karen posits that "we don't need to accept the logic of unprecedented scale and 
 - resist narratives that OpenAI and the AI have told us to hide the mounting social and enviornmental costs of this technology behind an elusive vision of progress.
 
 
+
+# 

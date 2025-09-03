@@ -10,7 +10,6 @@ _Books that I have read._
 ⋆⁺₊⋆ ☀︎ ⋆⁺₊⋆↟↟↟𖠿 𖤣𖤥𖡼.𖤣𖥧
 # currently reading...
 - [[permaculture|Permaculture]]: Principles & Pathways Beyond Sustainability by David Holmgren
-- Everything for Everyone: An Oral History of the New York Commune, 2052–2072 by Eman Abdelhadi, M.E. O'Brien
 - Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence by Kate Crawford
 - [[Empire of AI Dreams and Nightmares in Sam Altman's OpenAI|Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI]] by Karen Hao
 
@@ -36,6 +35,7 @@ _Books that I have read._
 - Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants by Robin Wall Kimmerer ✿
 - Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism by Sarah Wynn-Williams
 - Martyr! by Kaveh Akbar
+-  [[Everything for Everyone |Everything for Everyone: An Oral History of the New York Commune, 2052–2072]] by Eman Abdelhadi, M.E. O'Brien ✿
 
 # 2024
 

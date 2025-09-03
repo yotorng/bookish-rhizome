@@ -2,6 +2,7 @@
 title: more than human
 draft: true
 tags:
+  - composting
 date:
 ---
 On complexity & thinking with trees - Shannon Mattern
