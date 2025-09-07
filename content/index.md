@@ -18,6 +18,6 @@ Visit
 
 ☞︎︎︎ 🏞️🛶the [[/Now/|stream]], a flow of time-ordered logs 𓆝 𓆟 𓆞 𓆝 ⋆｡𖦹°‧｡˚*❍✩𓆏𓏲*ੈ‧₊˚
 
-☞︎︎︎🫚🥘 the [[/The Ginger Kitchen|ginger kitchen]], where ideas brew, bubble, and alchemise ‧₊˚ ⋅ 𓐐‧₊˚ ｡𖦹°⋆༶⋆˙⊹𓎩
+☞︎︎︎🫚🥘 the [[/The Ginger Kitchen/|ginger kitchen]], where ideas brew, bubble, and alchemise ‧₊˚ ⋅ 𓐐‧₊˚ ｡𖦹°⋆༶⋆˙⊹𓎩
 
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘  

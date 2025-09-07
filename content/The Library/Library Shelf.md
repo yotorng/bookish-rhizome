@@ -39,10 +39,10 @@ _Books that I have read._
 
 # 2024
 
-- Four Thousand Weeks: Time Management for Mortals by Oliver Burkeman
+- [[Four Thousand Weeks Time Management for Mortals|Four Thousand Weeks: Time Management for Mortals]] by Oliver Burkeman
 - Against Technoableism: Rethinking Who Needs Improvement by Ashley Shew ✿
 - Having and Being Had by Eula Biss
-- The Book of Form and Emptiness by Ruth Ozeki
+- [[The Book of Form and Emptiness]] by Ruth Ozeki
 - Sherlock Sam and the Sinister Letters in Bras Basah by Adan Jimenez, Drewscape, A.J. Low, Felicia Low-Jimenez
 - I Wonder Where I Am? by Shinsuke Yoshitake
 - What Happens Next? by Shinsuke Yoshitake
@@ -52,7 +52,7 @@ _Books that I have read._
 - Strangers I Know by Claudia Durastanti
 - Cahokia Jazz by Francis Spufford ✿
 - Land of Milk and Honey by C Pam Zhang
-- The Internet Con: How to Seize the Means of Computation by Cory Doctorow
+- [[The Internet Con How to Seize the Means of Computation|The Internet Con: How to Seize the Means of Computation]] by Cory Doctorow
 - The Secret Language of Maps: How to Tell Visual Stories with Data by Carissa Carter ✿
 - The Bandit Queens by Parini Shroff
 - Richard Scarry's Busy, Busy Town by Richard Scarry
