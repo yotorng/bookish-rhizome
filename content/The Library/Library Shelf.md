@@ -11,7 +11,7 @@ _Books that I have read._
 # currently reading...
 - [[permaculture|Permaculture]]: Principles & Pathways Beyond Sustainability by David Holmgren
 - Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence by Kate Crawford
-- [[Empire of AI Dreams and Nightmares in Sam Altman's OpenAI|Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI]] by Karen Hao
+- [[A City is Not a Computer| A City is Not a Computer: Other Urban Intelligences]] by Shannon Mattern
 
 # 2025
 - Sister Snake by Amanda Lee Koe
@@ -36,6 +36,8 @@ _Books that I have read._
 - Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism by Sarah Wynn-Williams
 - Martyr! by Kaveh Akbar
 -  [[Everything for Everyone |Everything for Everyone: An Oral History of the New York Commune, 2052–2072]] by Eman Abdelhadi, M.E. O'Brien ✿
+- [[Empire of AI Dreams and Nightmares in Sam Altman's OpenAI|Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI]] by Karen Hao
+- Paradise Logic by Sophie Kemp
 
 # 2024
 
