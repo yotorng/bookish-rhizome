@@ -11,6 +11,7 @@ city-as-tree
 grafting
 - the city is continuously remaking itself..
 
+>City-as-tree, city-as-graft, city-as-computer: each metaphor is necessarily reductive, but **when recognized as partial and temporary, rather than totalizing lenses, and when deployed in tandem, when triangulated, they can reveal a city in its prismatic complexity**. They suggest multiple ways of thinking about what a city is, how it's made and managed and maintained, and what intelligences are
 
 # City Console
 

@@ -11,6 +11,8 @@ from the ai race to chips war, so much of tech narrative is shrouded in the lang
 - the consolidation of ai research to a few profit-maximising corporations, narrowing diversity of ideas in AI research 
 - labour & environmental costs
 
+riveting, the narratives that line/pad/couch silicon valley’s pursuit of a narrow vision of ai, and how this ideology trickles down to the rest of the world, where its costs disproportionately beats down on the technoprecarious, and our natural world
+
 ---
 
 # Prologue: A Run For The Throne
