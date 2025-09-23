@@ -170,10 +170,10 @@ How might the institution build **physical and social infrastructure**s that sca
 - Can choose materials, contract with vendors, and build systems that embody different values. 
 - Can model a **principled critique of the novelty and innovation** that pervade commercial media and consumer culture. Perpetual pursuit of the new, after all, promotes materialistic acquisitiveness, planned obsolescence, environmental irresponsibility, superficial analysis, and aesthetic capriciousness, and it legitimates a form of what some might call "cancel culture." 
 
-> [!info]
+> [!hello]
 > - While "keeping current" —being up to date, learning relevant skills—is a valuable goal, it's important to place that pursuit in a larger cultural, political-economic, pedagogical, and institutional context: **What knowledges and ethics are we aiming to cultivate here? What kind of communities and societies are we building? What ends does "currency" serve?**
 
-Libraries resolutely embody unsmart knowledge politics and uphold the ideals of inclusion, equity, and justice above efficiency, convenience, profit, and the tangle of compromised values undergirding capitalism in its various permutations: racial, platform, surveillance capitalism, and so forth.
+Libraries resolutely embody **unsmart knowledge politics** and uphold the ideals of inclusion, equity, and justice above efficiency, convenience, profit, and the tangle of compromised values undergirding capitalism in its various permutations: racial, platform, surveillance capitalism, and so forth.
 
 Libraries (in addition to promoting media and informational literacy) can also look at:
 - **data literacy & justice**: thinking abt data in context, data ownership & rights 
