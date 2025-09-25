@@ -6,6 +6,11 @@ date: 2025-09-18T22:16:00
 ---
 Book by Shannon Mattern
 
+main ideas (summarised, in the midst of cleaning this up)
+- turning away from computational form of thinking for its totalising inclinations 
+- Embracing a multiplicity of urban intelligences that reside **outside** of a dashboard, including the ephemeral, sensorial, long-term/cross-generational ways of knowing the city
+- aspirational role of the library - one that deeply resonates in my work too
+
 ---
 # Intro: Cities, Trees & Algorithms
 
@@ -83,7 +88,7 @@ suggestions on designing muddy dashboards
 
 # Chapter 2: A City is Not a Computer
 
-metaphors of the city
+Metaphors of the city
 - city as computer spin-offs
 	- platform
 	- operating system
@@ -110,15 +115,15 @@ The sites and systems where we locate the city's informational functions—the p
 - Looking at urban data *in context* - its life cycle, distributions, and data subjects 
 - Mapping where data 'lives' - material, geographic manifestations as a point of entry to the larger system
 	- not just the location, but also the personnel, protocol, paperwork,machines and management, conduits and cultural variables
-- beyond the city-as-computer: other forms of data and sites of intelligence-generation in the city
-	- libraries: published materials, commitment to knowledge and information literacy 
-	- archives: unpublished materials, administrative record-keeping, oral histories etc
-	- museums: A commitment to knowledge in embodied form, to its artifacts and material culture  
-	- place-based "information" that cannot be easily contained , framed, catalogued, or placed on a pedestal, nontextual, unrecordable forms of cultural memory
-	- ephemeral, performative forms of knowledge such as ritual, food, sport and oral culture
+- Beyond the city-as-computer: other forms of data and sites of intelligence-generation in the city
+	- **libraries**: published materials, commitment to knowledge and information literacy 
+	- **archives**: unpublished materials, administrative record-keeping, oral histories etc
+	- **museums**: A commitment to knowledge in embodied form, to its artifacts and material culture  
+	- **place-based "information"** that cannot be easily contained, framed, catalogued, or placed on a pedestal, nontextual, unrecordable forms of cultural memory
+	- **ephemeral, performative forms of knowledge** such as ritual, food, sport and oral culture
 		- these forms cannot be reduced to 'information', nor can they be 'processed', stored, or transmitted via fiber-optic cables
 		- but they are vital urban intelligences that live within bodies, minds and communities
-	- [[more-than-human|ambient, 'immaterial' environmental data ]]
+	- **[[more-than-human|ambient, 'immaterial' environmental data]]**
 		- wind, rust, shadows
 - Scales: geologic, climatic rather than the scale of financial markets, transit patterns, data processing
 
@@ -155,10 +160,9 @@ libraries assuming a host of changing social and symbolic functions:
 
 In [Public Libraries in the Smart City](https://link.springer.com/book/10.1007/978-981-13-2805-3) (by Dale Leorke and Danielle Wyatt)
 >[L]ibraries are increasingly positioning themselves as innovation hubs of the new economy, supporting entrepreneurial activity and the skills required to thrive in a digital future. 
-- sensors for monitoring visitor flows, shelf-reading robots, RFID tafs to track book circulation, machine learning to add metadata to digitised collections, etc
-- Libraries have been **conscripted to smart city narratives**, where libraries have been explicitly written into the nation;'s smart city/national digital infrastructure initiatives (Singapore, Australia, and Scandinavia)
-
-## library-as-infrastructure
+- sensors for monitoring visitor flows, shelf-reading robots, RFID tags to track book circulation, machine learning to add metadata to digitised collections, etc
+- Libraries have been **conscripted to smart city narratives**, where libraries have been explicitly written into the nation's smart city/national digital infrastructure initiatives (Singapore, Australia, and Scandinavia)
+## library-as-sociotechnical-infrastructure
 >Thinking about the library as a **network of integrated, mutually reinforcing, evolving infra-structures**—in particular, architectural, technological, social, epistemological, and ethical infrastructures— **can help us better identify what roles we want our libraries to serve, and what we can reasonably expect of them**. What ideas, values, and social responsibilities can we scaffold within the library's material systems: its walls and wires, shelves and servers?
 > 
 > In this chapter we'll consider how the library functions **both as a knowledge infrastructure and a social infrastructure**—one that provides critical services, especially for those marginalized populations who are either irrelevant to or criminalized by the smart city's all-seeing sensors and all-knowing databases. We'll examine how public and academic libraries do, or could, **play important supplemental or adversarial roles in cities powered by proprietary technological platforms and monitored by automated surveillance networks**. 
@@ -170,13 +174,13 @@ How might the institution build **physical and social infrastructure**s that sca
 - Can choose materials, contract with vendors, and build systems that embody different values. 
 - Can model a **principled critique of the novelty and innovation** that pervade commercial media and consumer culture. Perpetual pursuit of the new, after all, promotes materialistic acquisitiveness, planned obsolescence, environmental irresponsibility, superficial analysis, and aesthetic capriciousness, and it legitimates a form of what some might call "cancel culture." 
 
-> [!hello]
+> [!in context]
 > - While "keeping current" —being up to date, learning relevant skills—is a valuable goal, it's important to place that pursuit in a larger cultural, political-economic, pedagogical, and institutional context: **What knowledges and ethics are we aiming to cultivate here? What kind of communities and societies are we building? What ends does "currency" serve?**
 
 Libraries resolutely embody **unsmart knowledge politics** and uphold the ideals of inclusion, equity, and justice above efficiency, convenience, profit, and the tangle of compromised values undergirding capitalism in its various permutations: racial, platform, surveillance capitalism, and so forth.
 
 Libraries (in addition to promoting media and informational literacy) can also look at:
-- **data literacy & justice**: thinking abt data in context, data ownership & rights 
+- **data literacy & justice**: thinking aboutt data in context, data ownership & rights 
 	- libraries can be a middle ground for civic data initiatives
 	- spaces where ppl cn go to learn abt data being collected abt them, hv a voice in howw they are collected, managed, and used
 	- curating and caring for data more responsibly, so the data can also respect the lives and environments they represent
@@ -186,11 +190,57 @@ Libraries (in addition to promoting media and informational literacy) can also l
 - **infrastructural literacy**: think of cables, satellites, modes of distribution through while information reaches us/bypasses marginalised populations
 - **digital justice**: a matter of access, power, participation and ownership 
 
-  
+ librarians can cultivate collections and contract with vendors to **ensure that their stacks and servers are stocked with data, information, and knowledge that reflect the breadth of intelligences in their communities.** 
+ - Those materials all represent a particular politics of knowledge too. 
+ - Who gets to make knowledge, and what forms does it take? 
+ - How is it stored and classified, and what systems of valuation are implied in those decisions? 
+ - Who gets to access it, and how? 
+ - These are questions one doesn't typically get to ask when adopting a totalizing urban operating system or a monopolistic vendor's "knowledge base." **That's why any library operating in productive resistance to technosolutionist platform-think must recognize that procurement and collection development are responsibilities of the highest epistemological and political significance.**
 
+Yet, of course, that content is shaped and distributed through various technologies: routers and readers, audio players and collection viewers, annotation devices and captioning tools and dashboards and the like. 
+- Rather than always relying on proprietary commercial tools with stringent user restrictions and little concern for the privacy of their users' data, **some libraries build their own tools.**
+- what if digital networks were designed to foster **discovery and critical analysis** instead of likes/hits/attention-grabbing polarising content?
+- These alternatives can be **local, modest, contextual and scaled to suit the needs and knowledge of the local community**
 
+## Some considerations on the role of the library
+- how to build public-interest technical systems and tools?
+- how to use them as **scaffoldings for social connection**;
+- how to **integrate them into the built environment**, whether our libraries or our homes or our cities public spaces; 
+- how to design them such that they **give material form to the epistemologies defining our institutions**; and 
+- how to ensure that they **embody the values of inclusion and justice**.
+- Perhaps we can learn from history and imagine **a network of public infrastructures for the creation, storage, and dissemination of public knowledge**: universities, libraries, broadcasting, print media, the postal service, telecommunications, local data intermediaries, and digital infrastructures working together, as a public epistemological ecology?
 
+>"We could develop "useful," productive knowledge and equip ourselves to live critically and consciously among the automated digital systems, while also leaving room for slow and inefficient ideas, for the "unexpected, the irrelevant, the odd and the unexplainable”
+>
+>We could stare back at all the surveillance cameras and sensing technologies that are looking at us, reverse-engineer the algorithms that determine what bits and bodies rise to the top, question the technical protocols and legal policies that limit who has access to knowledge.
+>
+>Rather than merely consuming data fed to us via platforms, we could recognize the deep and distributed infrastructures and human intelligences that scaffold our institutions of knowledge and program our values. 
+>
+>We could acknowledge the biases and legacies of injustice that still suffuse those institutions, and work toward their abolition. 
+>
+>We could reflect on the environmental impacts of our internet searches and streaming services, and work to develop practices and tools to minimize our ecological footprints. 
+>
+>**We could do all these things at the library-but not only here.**"
 
+# Chapter 4: Maintenance Codes
 
+- Rather than building anew, however, what we really need to study is how the world gets put back together, maybe not as it was, but, instead, **how we want it to be**
+- Attending to the everyday, yet humbly radical, work of maintenance, caretaking, and repair
+- Steven Jackson: "Rethinking Repair" — way back in 2014—proposes that we "take erosion, breakdown, and decay, rather than novelty, growth, and progress, as our **starting points**" in considering relations between society and technology. 
+	- His sober exercise in "broken world thinking" is matched with "deep wonder and appreciation for the ongoing activities by which stability... is maintained, the subtle arts of repair by which rich and robust lives are sustained against the weight of centrifugal odds."
+- How these different disciplinary approaches converge across **four scales of maintenance**: rust, dust, cracks and corruption. 
 
-[^1]:  i like this playful metaphor! also disrupts and troubles the digital as accurate and scientific  
+## Rust - the repair of large urban infrastructures, from transportation systems to social networks
+- People and data work across these scales of maintenance, and they do so within particular cultures and geographies, and through different subjectivities.
+- dont romanticise maintenance!!
+- motivations behind urban and ecological maintenance can b complex
+
+## Dust - architectural maintenance alongside housework and other forms of caretaking in the domestic and interior realms.
+- dont romanticise care either (pay attention to who has the power to care, who/what tends to get designated the proper or improper objects of care)
+## Cracks - repair of objects, from television sets to subway signs to cell phones
+
+## Corruption - curators who clean and maintain data-a resource that fuels the operation of our digital objects, our networked architectures, and our intelligent cities
+
+----
+
+[^1]:  i like this playful metaphor! also disrupts and troubles the digital as accurate and scientific 
