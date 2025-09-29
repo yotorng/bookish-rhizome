@@ -13,3 +13,10 @@ Leaving social media platforms is hard. Your friends, family and random kindred 
 Doctorow makes a case for interoperability. He argues that Big Tech's dominance (coining them as Walled Gardens) can be attributed to legal structures and defences, rather than simply through engineering and design. Interoperability, where any platform or system can freely interact with another, is presented as a way to break down these walls, taking away the cost of switching(e.g. I can view someone's IG post on my email account without having to download or use IG), encouraging competition and the creation of tinier companies, collectively empowering people to make their own choices in the platform they opt to use. He claims that it's a way to make the Internet more free and democratic, cutting down the influence of Big Tech and placing the power of choice directly into people's hands. It's an interesting frame, and I'll be thinking about this more...!!
 
 >"We've tried making Big Tech into better tech for decades. That project has been an abject failure. To make tech better, we have to make it smaller-small enough that the bad ideas, carelessness and blind spots of individual tech leaders are their problems, not everyone else's. We need lots of tech, run by lots of different kinds of people and organizations, and we need to make it as close to costless as possible to switch from one to the other."
+
+^bcef74
+
+
+
+
+

@@ -6,12 +6,21 @@ date: 2025-08-26T23:52:00
 ---
 Book by Karen Hao ; 2025
 
-from the ai race to chips war, so much of tech narrative is shrouded in the language of power and contest. In Empire of AI, Karen Hao leans into this , but through the lens of colonisation
-- we mythologise ai, heralding its purported strides in ~productivity
-- the consolidation of ai research to a few profit-maximising corporations, narrowing diversity of ideas in AI research 
-- labour & environmental costs
+From the 'AI race' to the 'chips war', much of mainstream tech narratives tend to be shrouded in the language of power and contest. In this vein, Karen Hao charts the rise and machinations of OpenAI. She argues that the logic of empire extends to AI companies — where they entrench power, amass riches, and impose a colonial world order of violent extraction and accumulation at all costs.
 
-riveting, the narratives that line/pad/couch silicon valley’s pursuit of a narrow vision of ai, and how this ideology trickles down to the rest of the world, where its costs disproportionately beats down on the technoprecarious, and our natural world
+I could not put this book down, and found it riveting and accessible! Hao interrogates the hypocrisy of AI companies - where they herald grandiose visions about changing the world and building a better future, while ignoring the very problems at its door. She reveals the cheap narratives that pad silicon valley’s pursuit of a narrow vision of AI, how this ideology trickles down to the rest of the world, where its costs disproportionately beats down on the technoprecarious, our natural world, and even the diversity of our technology. 
+- the consolidation of ai research to a few profit-maximising corporations, narrowing diversity of ideas in AI research 
+- corporate obfuscation
+
+A common thread that runs through the book
+- we don't need to accept the logic of unprecedented scale and consumption to achieve advancement and progress
+- small, diverse ai
+- strong data privacy and transparency rules
+- update intellectual property protections to return people's agency over their data and work
+- advance international labour norms and laws - give data labelers guaranteed wage minimums and humane working conditions
+- shore up labour rights, guarantee access to dignified economic opportunities across all sectors and industries
+- Fund renewed diversity in AI research
+
 
 ---
 
@@ -51,7 +60,7 @@ Karen posits that "we don't need to accept the logic of unprecedented scale and 
 - advance international labour norms and laws - give data labelers guaranteed wage minimums and humane working conditions
 - shore up labour rights, guarantee access to dignified economic opportunities across all sectors and industries
 - Fund renewed diversity in AI research
-- resist narratives that OpenAI and the AI have told us to hide the mounting social and environmental costs of this technology behind an elusive vision of progress.
+- resist narratives that OpenAI and AI have told us to hide the mounting social and environmental costs of this technology behind an elusive vision of progress.
 
 # Chapter 2: A Civilizing Mission
 - the spectacle, the cult-like exaltation of AI celebrities, and, most of all, the overwhelming homogeneity of the people building and shaping such a consequential technology.
@@ -66,11 +75,228 @@ Karen posits that "we don't need to accept the logic of unprecedented scale and 
 	- through decades of research, the definition of AI has changed as benchmarks have evolved, been rewritten, and been discarded. The goalposts for AI development are forever shifting
 	- and yet - promises we're told about it have grown more grandiose
 - OpenAI fundamentally **cannot say how the technology will deliver on these promises—only that the staggering price society needs to pay for what it is developing will someday be worth it.**
-- how deep learning works #composting
+## deep learning and the narrowing of ai research
+- how deep learning works
+	- identify patterns in old data—text, pictures, or videos—and apply them to new data
+	* they might feed a neural network hundreds of thousands of images
+	* teases out the pixel patterns within the images that are associated with whether a person is present
+	* run it on new data—known as inferencing—to determine whether it fits the pattern.
+	* a certain threshold of **high-quality data** with a certain threshold of **compute** is required to calculate these patterns and produce a performant AI model
+	* with the internet creating new repositories of digital data, neural networks finally had the right conditions to flourish. 
+* Companies quickly **came to dominate over governments and foundations as the biggest funders of AI research** and were soon setting the research agenda based on advancements that could also produce short-term profitability
+	* greatest competitive advantage to players with the most data
+	* the supercharging of deep learning in its quest to expand and entrench global-scale monopolies also codified a culture among AI developers to view anything and everything as data to be captured and consumed by their technologies in a noble attempt to make them reflect as much of the world as possible
+	* pervasive use of abstract, detached language to sanitize and normalize the field’s reliance upon mass scraping and extraction.
+* The AI industry, in equal parts fueled by and fueling this datafication, was in turn accelerating that new colonialism further.
+	* First era of AI commercialization also choked off alternatives. As companies pumped unprecedented sums into deep learning and connectionism, overshadowing all other sources of funding, they remade the landscape of research around their priorities.
+	* erode the boundaries of truly independent research
+	*  the growing costliness of deep learning research. Universities could no longer afford the computer chips or the electricity needed to work in the hottest areas of AI development.
+* tech industry’s profit motive had become the overwhelming force driving AI development
+	* research had also consolidated heavily within just a few corporations.
+* The impact of this consolidation of funding and talent in the first era **significantly narrowed the diversity of ideas in AI research**. **Deep learning continued to reign supreme not just for its scientific merit but also because very little investment went into exploring and advancing other paradigms**
+* Weaknesses of deep learning
+	* their hotly contested and inefficient ways of storing accurate information and reasoning
+	* They cannot explain exactly how the model will behave, especially in strange edge-case scenarios, because the patterns that the model has computed are not legible to humans.
+	* adversarial attacks
+	* *Its flaws, they argued, are not inherent to the approach itself. Rather they are the artifacts of imperfect neural-network design as well as limited training data and compute*
+	* **Forever stuck in the realm of correlations, neural networks would never, with any amount of data or compute, be able to understand causal relationships—why things are the way they are—and thus perform causal reasoning**
+	* Expert systems can be programmed to understand causal relationships and excel at reasoning, shoring up the shortcomings of deep learning. Deep learning can rapidly update the system with data or represent things that are difficult to codify in rules, plugging the gaps of expert systems
+* the bigger root issue has been the **whittling down and weakening of a scientific environment** for robustly **exploring other possibilities and other alternatives to deep learning**.
+	* OpenAI’s all-in approach to deep learning would lead it to fall short of true AI advancements
+## generative AI as a maximalist form of deep learning
+* Generative AI 
+	* deep learning models trained to generate reproductions of their data inputs
+	* high-enough fidelity to become humanlike
+	* enabled by the cutting-edge software and hardware innovations refined during the first era
+	* feeds on the exploding troves of data amassed through surveillance capitalism
+	* fueled and abetted by the culture of AI research that views consuming as much data as possible as its moral responsibility
+	* OpenAI executed that vision aggressively, exploding its models so much that it would begin to hit the limits—in data, compute, and energy—of what the world has available.
+* OpenAI also anthropomorphizing and exaggerating the capabilities of the technology, despite the unreliable and unpredictable nature of these models
+	* such systems are trained on the internet, replete with its many fringe subcultures and dark corners. The longer you probe, the more likely you are to hit upon the patterns it learned from those parts of its training data.
+	* No matter their scale, neural networks are still statistical pattern matchers. And those patterns are still at times faulty or irrelevant, now just more intricate and more inscrutable than ever.
+	* The models are not grounded in facts or even in discrete pieces of information
+	* While those probabilistic outputs can go impressively far in mirroring human writing patterns, probable and accurate are not the same thing.
+	* Even the term hallucinations is subtly misleading. It suggests that the bad behavior is an aberration, a bug, when it’s actually a feature of the probabilistic pattern-matching mechanics of neural networks.
+## the normalisation of scaling within the tech industry
 > "The costs of this vision are pressing down on vast swaths of the global population who are vulnerable. This is the empire’s logic: The perpetuation of the empire rests as much on rewarding those with power and privilege as it does on exploiting and depriving those, often far away and hidden from view, without them. "
 - Even as the need for alternatives has grown ever more urgent, the diversity of ideas in AI research has only collapsed further
-- **OpenAI commands our imagination**. Its belief in scaling was once viewed as extreme. Now scaling is seen across the tech industry as doctrine.
--  scaling doctrine has become so ingrained that some are even beginning to view it as something of a natural phenomenon. Scaling compute is the way, not just a way, to reach more advanced AI capabilities
+- **OpenAI commands our imagination**. Its belief in scaling was once viewed as extreme. Now **scaling is seen across the tech industry as doctrine**.
+- Scaling doctrine has become so ingrained that some are even beginning to view it as something of a natural phenomenon. Scaling compute is the way, not just a way, to reach more advanced AI capabilities
 * But scale is not the only pathway to improved performance. Within deep learning, the neglected paths of improving the neural network itself or even the quality of its training data can significantly reduce the amount of expensive compute needed to reach the same performance. That’s not even considering approaches that move away from deep learning—neurosymbolic AI, pure expert systems, or even fundamentally new paradigms—which would break the logic of scaling
 
-..TBC! #composting 
+# Chapter 5: Scale of Ambition
+- Transformers
+	- can ingest large volumes of text and consider each word, sentence, and paragraph in a significantly larger context.
+	* simple and scalable neural networks,
+	* force it to compress data about the world into its essence. “Intelligence is compression"
+* scaling laws described the relationship between the performance of a deep learning model and three key inputs: the volume of a model’s training data, the amount of compute it was trained on, and the number of its parameters
+* **the argument that AGI, despite being amorphous and unknowable, was also inevitable.** OpenAI would repeatedly justify its behaviors against variations of the same argument for years after. Under the specter of AGI’s unstoppable arrival, the company needed to keep developing more and more powerful models to prepare itself and to prepare society. Even if those models carried with them their own risks, the experience they offered to prevent or face possible AI apocalypse made those risks bearable.
+* OpenAI, with its billionaire origins, unique ideological bent, and Altman’s singular drive, network, and fundraising talent, that created a ripe combination for its particular vision to emerge and take over.
+## everything OpenAI did was the opposite of inevitable
+- these two decisions—the one to explode GPT-3’s size and the one to quickly release it—would change the course of AI development
+
+## tech as empire
+* rapid acceleration of AI advancement, sparking fierce competition between companies and countries
+* unprecedented expansion of surveillance capitalism and labor exploitation.
+* consolidate the development of the technology to a degree never seen before, locking out the rest of the world from participating
+* accelerate the vicious cycle of universities,
+* atrophying independent academic research, and spelling the beginning of the end of accountability
+* environmental impacts of AI
+* absence of transparency or regulation, neither external experts nor governments have been able to fully tabulate to this day
+
+## the need for scale
+size of the dataset needed to grow proportionally with the number of parameters and the amount of compute
+- taking data from Books2, published books ripped from Library Genesis, an online shadow repository of torrented books and scholarly articles, publicly available dataset known as Common Crawl, a sprawling data dump with petabytes, or millions of gigabytes, of text, regularly scraped from all over the web, through its partnership with Microsoft, OpenAI also received a full download of GitHub, the Microsoft-owned online code repository, whatever they could find on the internet, scraping links shared on Twitter, transcribing YouTube videos, and cobbling together a long tail of other content, including from niche blogs, existing online data dumps, and a text storage site called Pastebin.
+
+pressure for quantity **eroded quality even further**, with sweeiping downstream effects on human labour
+- relied on poorly paid workers in precarious economic conditions to perform essential data preparation tasks for its AI models, such as categorizing text and labeling images.
+* the demands for the work shifted from the handling of largely benign content to frequently disturbing content, including for the purposes of content moderation
+* critique the premise of training deep learning models on unfiltered data, or what they called “data-swamps.”
+* OpenAI would hire workers in Kenya for on average less than two dollars an hour to build an automated content-moderation filter, perform reinforcement learning from human feedback, or RLHF, the technique it had developed to teach an AI agent backflips, on its language models, in an effort to tame the model as much as possible.
+* To fix the problem, we have to return to its root: questioning what is really in the data, questioning the whole premise of its wide-scale, indiscriminate seizure
+
+## Chapter 7: Science in Captivity
+-the erosion of scientific integrity, where critical scholarship is increasingly blocked, unable to question the workings of ai companies or hold them accountable of ai  
+- lack of dataset documentation
+	-  vast datasets were difficult to audit and scrutinize, it was extremely challenging to verify what was actually in them, making it harder to eradicate toxicity or more broadly ensure that they reflected evolving social norms and values
+- On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? -> pooled together the authors’ expertise and scholarship across fields to critique how the development and deployment of large language models could have negative impacts on society.
+	* enormous environmental footprint,
+	* disproportionate burden on Global South communities already suffering from broader political, social, and economic precarity. Second
+	* demand for data was growing so vast that companies were scraping whatever they could find on the internet, inadvertently capturing more toxic and abusive language as well as subtler racist and sexist references. 
+	* Google censored one of the authors of this paper(who was previously employed by them) - claimed that paper was too critical
+	* that Google was even willing to pull this move, some researchers would later reflect, was not only because of the n**ew competitive pressure from OpenAI** but also because of the **work OpenAI had done to legitimize withholding research after GPT-2**. 
+	* The creep toward less transparency had continued with GPT-3. OpenAI had published a sanitized research paper with little information about how the model was trained—once considered a bare minimum in scholarly publications—and still won a research award.
+- massive upheaval in AI research and marking an acceleration toward increased corporate censorship and diminishing accountability.
+	- **distorting and censoring critical scholarship** against the interests of the public to escape scrutiny
+	* **complete concentration of talent, resources, and technologies in for-profit environments** that allowed companies to act so audaciously because they knew they had little chance of being fact-checked independently;
+	* abysmal **lack of diversity** within the spaces that had the most power to control these technologies; and the **lack of employee protections against forceful and sudden retaliation** if they tried to speak out about unethical corporate practices
+* Nearly all of the companies in the rest of the industry would seal off public access to meaningful technical details of their commercially relevant models, which they now considered proprietary
+* also allows for perhaps questionable tech
+	* The foundation of deep learning research rests on a simple premise: that the data used to train a model is not the same as the data used to test it. however, now it's difficult to even ascertain this. Models may not in fact be improving their “intelligence” when they score higher on different benchmarks. They may just be reciting the answers.
+
+## Chapter 9: Disaster Capitalism
+
+* content moderation choice: moving away from filtering data inputs to controlling model outputs.
+	* That output filter would act as a wrapper around each model, for the purpose of flagging and removing offensive content from its output before it reached the user.
+	* but: requires human workers who could carefully review and catalog hundreds of thousands of examples
+* Kenya became home to what would ultimately turn into one of the most exploitative forms of labor that went into the creation of ChatGPT. Kenya was among the top destinations that Silicon Valley had been outsourcing its dirtiest work to for years. 
+	* Ghost Work, based on five years of extensive fieldwork, revealing a hidden web of piecemeal labor and digital exploitation that propped up Silicon Valley.
+	* People have to do that work. And from a company’s perspective, the cheaper they do it, the better.
+* First era of AI commercialization laid the groundwork for the generative AI era’s amassing of data and capitalization of compute, so, too, did it create the foundations for its **wide-scale labor exploitation**.
+* their experiences were far from anomalous but rather a **direct consequence of the compounding of the AI industry’s long-standing treatment of its hidden workers and its views on whose labor is or isn’t valued**, with OpenAI’s empire-esque vision for unprecedented scale
+* demand for data annotation
+	* the way she’d reoriented her entire life around working for a platform; the way that platform in turn treated her as disposable.
+	* Poverty doesn’t just manifest as a lack of money or material wealth, the workers taught me. It seeps into every dimension of a worker’s life and accrues debts across it: erratic sleep, poor health, diminishing self-esteem, and, most fundamentally, little agency and control.
+* the consistency of workers’ experiences across space and time shows that the labor exploitation underpinning the AI industry is systemic
+	* exploitation begins with the AI companies at the top
+	* workers are squeezed twice—once each to pad the profit margins of the middleman and the AI company.
+* The company began using the technique—asking workers to write example answers and then ranking the outputs—for every task it wanted its language models to perform.
+	* pages of detailed instructions on the exact tone and style the workers needed to use.
+* Behind promises of their technologies enhancing productivity, unlocking economic freedom, and creating new jobs that would ameliorate automation, the present-day reality has been the opposite. **Companies pad their bottom lines, while the most economically vulnerable lose out and more and more highly educated people become ventriloquists for chatbots**
+* The empire’s devaluing of the human labor that serves it is also just a canary: It foretells how the technologies produced atop this logic will devalue the labor of everyone else. In fact, for the artists, writers, and coders whose labor the empires of AI turned into free training data, that is already happening.
+
+## Chapter 11: Apex
+
+* “I saw the incentives at Microsoft push more and more toward a narrow conception of the future,” the former employee says. “I saw the technology become narrowed into something propped up by narrative rather than reality.”
+* ChatGPT firmly codified OpenAI’s turn away from nonprofit and toward commercialization
+* To fuel its growth, it needed more material resources and, crucially, more land
+
+## Chapter 12: Plundered Earth
+
+* Chile: Having never meaningfully industrialized, it also remains tethered to the extraction economy that makes it relevant to higher geopolitical powers.
+	* ground zero for a new scale of extractivism
+	* The supplier of the industry’s insatiable appetite for raw resources, not just its copper and lithium in the north but also its land, water, and energy resources for a growing crop of data centers in the Santiago metropolitan region.
+* While the government’s stance that its role as a resource provider to technology development represents progress for the nation, Chile has also become home to some of the fiercest resistance globally against this narrative
+	* these movements are asking is **how to imagine a different path for AI development not rooted in extraction**
+
+## [[technology is built from, relies on, and irrevocably grounded in the material.]]
+* Digital” technologies do not just exist digitally. The “cloud” does not in fact take the ethereal form its name invokes. To train and serve up AI models requires tangible, physical data centers. And to train and run the kinds of generative AI models that OpenAI pioneered requires more and larger data centers than ever before.
+* Those computers [in the data centers] emanate an unseemly amount of heat, like a laboring laptop a million times over. To keep them from overheating, the buildings also have massive cooling systems—large fans, air conditioners, or systems that evaporate water to cool down the servers. The equipment all together creates a cacophony of humming, whirring, and crackling that can—especially in underdeveloped communities—be heard for miles, twenty-four hours a day, creating a relentless and body-warping source of noise pollution.
+* megacampus: refers not just to the land area but to the sheer amount of energy that will be required to run them. A rack of GPUs consumes three times more power than a rack of other computer chips
+* the kind of electricity growth that hasn’t been seen in a generation.” Utility companies are now delaying the retirement of gas and coal plants and the transition to renewable energy
+* This scale—the mega-hyperscale—has created startling environmental consequences. And yet, in the very same moment, **corporate obfuscation of that impact has reached new heights.**
+	* tech giants have hidden away even more of their models’ technical details, making it exceedingly hard to estimate and track their carbon footprints.
+	* artificially create powerful counternarratives: Data centers will grow so efficient, their impact will stop being a problem; generative AI will unlock new climate innovation; AGI will solve climate change once and for all
+## the misleading narrative of a better future
+* lauded the importance of the country’s mining industry in propelling forward a better future. Indigenous communities watching their land and their communities get ripped apart asked: **A better future for whom? “Local people never have the ability to think about their own destiny outside the forces of economics and international politics,”**
+* The accelerated copper and lithium extraction to build megacampuses—and to build the power plants and thousands more miles of power lines to support them—is, in Silicon Valley’s account, also ushering in a better and brighter future. To block that extraction is thus to block fundamental progress for humanity.
+* **That scale has consumed everything**. It has made the north and the rest of Chile completely dependent on the industry and not allowed for the emergence of other economies. It has choked off the country’s—and the rest of the world’s—ability to imagine different paths where development could exist without plundering natural resources
+* Against the narratives of high-speed progress used to fuel extraction, she searches for new conceptions of progress that promote healing, sustainability, and regeneration -> Ramos conducting scientific ecological research on the Atacama Desert
+* a different battle is waging in the heart of Chile, over the government’s embrace of the tech industry’s data centers themselves. The faster the hyperscalers have expanded, outpacing the supply of land and power in their typical regions of operation, the more aggressively they have pushed to lay claim to those resources in new territories globally.
+* **physical manifestation of the way Silicon Valley wields technical knowledge to justify its centralized decision-making**
+* “We know that we feed the world, that we provide raw materials like copper and lithium,” Salinas says. “Nobody is saying our treasure is ours alone and we won’t share it. Yes, we can help each other. But they are not going to come and use the water, which is vital for life, and leave us with nothing.”
+* the risk of pushing back as a Global South country is always that a Silicon Valley company will pick up and take its money somewhere else. As the project continued to stall and Google’s desire for more compute intensified, the company announced that it would shift its next planned data center in Latin America from Chile to another country
+* **It’s not the infrastructure itself that’s the problem, but the scale at which Silicon Valley is trying to build it.**
+* They are “generally all from the Global South,” he says. “We all end up with the same consequences, but from different links in the global supply chain.
+* “We’re not fixing the problem, but we’re imagining other types of relationships between data and water,” Díaz says.
+## the colonial ideology of the AI industry
+* It’s very clear that the AI industry today is rooted in a colonial ideology
+	* imposes its worldview and its technology—what is AI, what is good AI, what it means to create an industry of AI—on the rest of the world. 
+	* Chile could be a leader in resisting that imposition. After centuries of extractivism, the country intimately understands what it means for its land to be hollowed out, dispossessed, and destroyed under a banner of progress. 
+	* **It could use those experiences as a wellspring from which to generate fundamentally new conceptions—decolonial conceptions—of AI.**
+* We can think of another way to relate technological innovation with the earth
+
+## Chapter 13: The Two Prophets
+
+* Sam Altman (congress hearing) offered three policy recommendations that shifted the conversation away from existing issues like labor, environment, and intellectual property and toward regulating future AI systems and extreme risks:
+* OpenAi escapes the true definition of open source, which would have required releasing both the model weights and its training data.
+
+## what can meaningful accountability look like?
+- corporate accountability on a broad range of issues, including **company use of copyrighted materials, user data privacy, and rigorous scientific evaluations of model capabilities.**
+- A deep learning model’s behavior first and foremost derives from its data.
+	* Opening up that data would be the first step to establishing scientific clarity on what kinds of inputs could lead to dangerous outputs.
+* Opening up transparent publication of AI models
+	* But the collateral damage of suppressing the publication of AI models would risk weakening the foundations of US AI innovation. Open source—sharing and building on code and software released to the broader community—has long been the bedrock upon which the wealth of US-based startups flourish. Restricting model weights from being published would give smaller developers fewer pathways than ever to create their own AI products and services. It would **further entrench the dominance of the giants represented in the Frontier Model Forum.**
+	* AI models would also become ever harder to scrutinize, such as in the work of Sasha Luccioni, Yacine Jernite, and Emma Strubell, who have relied heavily on open generative AI models to quantify the carbon and environmental costs of continuing to scale them.
+	* In critical ways, contrary to it being a national security risk, a great deal of **open collaboration across borders had also strengthened American AI leadership**. As the two countries that produce the most AI talent and research in the world, the US and China have long been each other’s number one collaborator in AI development. 
+* The whole sequence of events—Altman’s testimony, the white paper, the all-out policy influence campaign, Washington’s hyperreactivity to fears of China, and the hasty enshrining of compute thresholds into consequential policy documents within the US and abroad—was a **stark illustration among other things of how much independent AI expertise had atrophied**. 
+* Collateral damage of suppressing the publication of AI models would risk weakening the foundations of US AI innovation. Open source—sharing and building on code and software released to the broader community—has long been the bedrock upon which the wealth of US-based startups flourish.
+* Restricting model weights from being published would give smaller developers fewer pathways than ever to create their own AI products and services. It would further entrench the dominance of the giants
+
+## Chapter 17: Reckoning
+
+* To others, the growing insulation of the company felt antithetical to its original premise. Part of OpenAI’s mission was to benefit humanity, and yet the company was actively ignoring humanity’s outpouring of criticism about its behavior.
+* the convulsions that arise from the deep systemic instability that occurs when an empire concentrates so much power, through so much dispossession, leaving the majority grappling with a loss of agency and material wealth and a tiny few to vie fiercely for control.
+
+## Chapter 18: A Formula for Empire
+
+* may have begun as a sincere stroke of idealism, but it has since become a uniquely potent formula for consolidating resources and constructing an empire-esque power structure.
+	* centralizes talent by rallying them around a grand ambition
+	* Second, the mission centralizes capital and other resources while eliminating roadblocks, regulation, and dissent.
+* bizarre and incoherent strategy that only made sense under one reading: **OpenAI would do whatever it needed, and interpret and reinterpret its mission accordingly, to entrench its dominance**
+* Scenarios would retain the existence of the nonprofit as a separate entity but dismantle its board’s control over the company’s business. Under this new structure, investors were also pressuring Altman to take equity in the company to align his incentives more directly with their
+* The company was beginning to stare down the barrel of an uncomfortable prospect: Its tried-and-true formula of scaling no longer seemed to be enough to work; to advance its AI systems further, it likely needed fundamentally new research ideas
+* “We once again need to raise more capital than we’d imagined,” it said. “The world is moving to build out a new infrastructure of energy, land use, chips, datacenters, data, AI models, and AI systems for the 21st century economy. We seek to evolve in order to take the next step in our mission, helping to build the AGI economy and ensuring it benefits humanity
+
+## Epilogue: How the Empire Falls
+
+* For the same reasons AI researchers first gravitated toward language to build their technologies, the loss of a language extends far beyond the loss of a form of communication. 
+	* Each language encodes within it rich histories, cultures, knowledge; it is the collective product of millions of people across time grasping for the sounds and written forms to capture the subtlest observations about the universe, about life, about the human experience; to share with one another stunning beauty and painful failure; to teach a child, to learn from an elder; to express love.
+* **whose history, whose culture, whose knowledge deserves to be passed down and whose is so insignificant it deserves to be erased**
+* Large language models accelerate language decay
+	* As these models become digital infrastructure, the internet’s accessibility to different language communities—and the accessibility of the economic opportunities it provides—will continue to shrink, incentivizing more and more of those communities to prioritize learning and speaking a dominant language like English over their own
+* Te Hiku’s story diverges completely from OpenAI’s and Silicon Valley’s model of AI development
+* Jones and Mahelona were determined to carry out the project only if they could guarantee **three things—consent, reciprocity, and the Māori people’s sovereignty—at every stage of development**. 
+	* This meant that even before embarking on the project, they would get permission from the Māori community and their elders, asking them if the endeavor was even something they wanted; to collect the training data, they would seek contributions only from people who fully understood what the data would be used for
+	* were willing to participate; to maximize the model’s benefit, they would listen to the community for what kinds of language-learning resources would be most helpful; and once they had the resources, they would also buy their own on-site Nvidia GPUs and servers to train their models without a dependency on any tech giant’s cloud
+* Te Hiku would create a process by which the data it collected would continue to be a **resource for future benefit** but never be co-opted for projects that the community didn’t consent to, that could exploit and harm them, or otherwise infringe on their rights
+* Data is the last frontier of colonization,” Mahelona told me
+* Te Hiku simply sought to create a small, specialized model that excels at one thing.
+	* reminds me of [[The Internet Con How to Seize the Means of Computation#^bcef74|this Cory Doctorow quote]]
+* Dangerous notion that **broad benefit from AI can only be derived from—indeed, will ever emerge from—a vision for the technology that requires the complete capitulation of our privacy, our agency, and our worth, including the value of our labor and art, toward an ultimately imperial centralization project**
+* How AI and its development could be exactly the opposite
+* Models can be **small and task specific**, their training data **contained and knowable**, ridding the incentives for widespread exploitative and psychologically harmful labor practices and the all-consuming extractivism of producing and running massive supercomputers. 
+* The creation of AI can be **community driven, consensual, respectful of local context and history**; its application can **uplift and strengthen marginalized communities**; its governance can be **inclusive and democratic**
+* DAIR, the Distributed AI Research Institute—“distributed” to defy centralization
+* Communities affected by but not yet typically represented in AI research, treating them as true partners in the pursuit of knowledge production, fairly compensating any forms of labor involved in the creation of research and technologies, questioning the systems underpinning AI development that marginalize those who’ve always been historically marginalized, and working with those communities to dream up alternatives that could bit by bit remold the world toward one they wanted to inhabit
+* false logic around data work
+* Rather, we should ask **how AI shifts power: Does it consolidate or redistribute that power? To put it in the frame of this book, does it continue to fortify the empire, or does it begin to wrest us back toward democracy?**
+* redistribute power
+* knowledge, resources, and influence. 
+* As it stands now, OpenAI and its competitor empires have control of each of them: through centralizing talent, eroding open science, and sealing their models from public scrutiny, they control knowledge production; through hoarding funding, data, labor, compute, energy, and land, they control and diminish other people’s resources; through creating and reinforcing ideologies and producing wildly popular demonstrations that captivate global imagination, they command far-reaching influence. Each of these reinforces the other. Controlling knowledge production fuels influence; growing influence accumulates resources; amassing resources secures knowledge
+* **task-specific, community-driven AI applications that strengthen marginalized communities.**
+* companies to relinquish key details about the training data and technical specifications of their models and
+* data-defined systems. They’re not deterministic. So
+* crucial for measuring the impact of AI on the environment.
+* Visibility into company training data would make such extractive and exploitative behavior far more difficult. So, too, would visibility into company supply chains
+* The antidote to the **mysticism and mirage of AI hype is to teach people about how AI works, about its strengths and shortcomings, about the systems that shape its development, about the worldviews and fallibility of the people and companies developing these technologies.** 
