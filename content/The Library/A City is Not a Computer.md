@@ -10,6 +10,7 @@ main ideas (summarised, in the midst of cleaning this up)
 - turning away from computational form of thinking for its totalising inclinations 
 - Embracing a multiplicity of urban intelligences that reside **outside** of a dashboard, including the ephemeral, sensorial, long-term/cross-generational ways of knowing the city
 - aspirational role of the library - one that deeply resonates in my work too
+- maintenance codes - 
 
 ---
 # Intro: Cities, Trees & Algorithms
@@ -228,18 +229,79 @@ Yet, of course, that content is shaped and distributed through various technolog
 - Attending to the everyday, yet humbly radical, work of maintenance, caretaking, and repair
 - Steven Jackson: "Rethinking Repair" — way back in 2014—proposes that we "take erosion, breakdown, and decay, rather than novelty, growth, and progress, as our **starting points**" in considering relations between society and technology. 
 	- His sober exercise in "broken world thinking" is matched with "deep wonder and appreciation for the ongoing activities by which stability... is maintained, the subtle arts of repair by which rich and robust lives are sustained against the weight of centrifugal odds."
+- Breakdown and repair - when we consider it in relation to our etymological cousin, reparations - has "world-disclosing properties"
+- Identify breakdown and failure as "the means by which societies learn to reproduce", because the repair of broken systems always involve elements of "adaptation and improvisation"
+- Maintenance as a corrective framework needs to also acknowledge:
+	- traditions of women's work
+	- Black feminist theory
+	- domestic and reproductive labour
+	- all acts of preservation and conservation (formal and informal)
+- Avoid romanticising maintenance and repair!!
 - How these different disciplinary approaches converge across **four scales of maintenance**: rust, dust, cracks and corruption. 
-
-## Rust - the repair of large urban infrastructures, from transportation systems to social networks
 - People and data work across these scales of maintenance, and they do so within particular cultures and geographies, and through different subjectivities.
-- dont romanticise maintenance!!
 - motivations behind urban and ecological maintenance can b complex
 
+## Rust - the repair of large urban infrastructures, from transportation systems to social networks
+- urban dwellers are surrounded by the world being fixed, all around us, every day ; waste management, auto repair, street sweeping
+- caregivers, social workers, etc attend to the city's social infrastructures
+- [Mierle Laderman Ukeles' _1969 four-page A Manifesto for Maintenance Art_.]( https://queensmuseum.org/wp-content/uploads/2016/04/Ukeles-Manifesto-for-Maintenance-Art-1969.pdf)
+- critical race scholars- Robert Bullard and Beverly Wright, Mindy Fullilove, Jessica Gordon Nembhard, Jason Hackworth, Judith Hamera, Walter Johnson, Brentin Mock, Ashanté M. Reese, Rashad Shabazz, and Keeanga-Yamahtta Taylor among them-have explained how **histories of infrastructural neglect are entwined with histories of systemic racism and environmental injustice**, and how Black communities have l**ong dedicated their own labor and resources to repairing (or building anew) neighborhood streets, water systems, and parks overlooked (or withheld) by their local governments**. 
+- Around the world, many formal infrastructures are products of colonialism, and those imperial legacies persist through global financing
+	- rehabilitation efforts funded by World Bank and IMF: tendency for neglected manitenance expenditures to be capitalised through 'new build' projects 
+	- for absent/unreliable infrastructures - gaps are filled by illegal water taps, grafted cables, pirate radio stations, shadow networks etc
+- Many regions have their own distinctive "repair ecologies," like the underground market in Cuba for *el paquete semanal*, a weekly supply of new digital content circulated off-line, via hard drive, in order to circumvent the nation's insecure internet. This, too, is a kind of maintenance. 
+- Graham and Thrift argue that in the Global South, "the very technosocial architectures of urban life are heavily dominated by, and constituted through, a giant system of repair and improvisation."
+- Developing regions also become offshore "back lots" for wealthier nations' abject maintenance work, like breaking up rusty ships and processing e-waste. As Jackson puts it, some places are "more on the receiving end of globalization than others."
+- Outsiders sometimes make the mistake of focusing on the rusty bridges and broken pipes- the "defective objects" them-selves-whereas local fixers are more concerned with **"the social and political relationships in which [those objects are] embedded.**" 
+	- Barnes reports that Egyptian farmers in the Nile Valley maintain irrigation ditches not just to keep the water flowing but also to "sustain communal ties with other farmers."
+	- Similar protocols prevail in Nikhil Anand's *Hydraulic City*, in which the anthropologist shows how the maintenance of water infrastructures binds residents, plumbers, engineers, and politicians in an (uneven) system of "hydraulic citizenship."
+	- And in her study of food infrastructures, Ashanté Reese examines how underresourced communities in Washington, DC, develop "geographies of self-reliance" wherein they provide sustenance for themselves while also critiquing the system's injustices and enabling their own flourishment
+	- Despite gentrification and displacement, Reese writes, the community's gardens were "a form of resistance" that "symbolically represented their determination and desire to remain where they had planted roots."
+- What, exactly, is being maintained? **"Is it the thing itself," Graham and Thrift ask, "or the negotiated order that surrounds it, or some larger entity?"**? Often the answer is all of the above.
 ## Dust - architectural maintenance alongside housework and other forms of caretaking in the domestic and interior realms.
-- dont romanticise care either (pay attention to who has the power to care, who/what tends to get designated the proper or improper objects of care)
+- building maintenance
+- care  - the mental, manual, and emotional work necessary to "maintain existing life and reproduce the next generation"
+	- Joan Tronto and Berenice Fisher define care as "everything that we do to maintain, continue and repair 'our world' so that we can live in it as well as possible. That world includes our bodies, ourselves, and our environment, all of which we seek to interweave in a complex, life-sustaining web"
+	- María Puig de la Bellscasa argues that caring involves an 'ethico-political commitment' to the neglected and oppressed, and a concern with the affective dimensions of our material world.
+	- Structural care - imagining physical infrastructures that support ecologies of care, facilitate maintenance
+- dont romanticise care either
+	- pay attention to who has the power to care, who/what tends to get designated the proper or improper objects of care
+	- consider recuperatove strategies that don't normalise care as inherently virtuous and good-feeling
 ## Cracks - repair of objects, from television sets to subway signs to cell phones
-
+- the life span of an object also depends on context - where in the West a cracked screen can mean death, elsewhere it opens up possibilities for reuse
+- discard studies, including flows of electronic waste and their social ecological impacts
+	- Reminiscent of [[Waste Tide]]
+	- [[Anti-Library#^278ae1|Invisible Users: Youth in the Internet Cafés of Urban Ghana]] by Jenna Burrell
+		- Ghana as a country and its diasporic communities as networks of entrepreneurial refurbishment and secondhand trade, where workers have pick up technical skills
+		- Ghana's contribution to the tech world, Burrell argues, is not in designing new machines but instead in "finding opportunities for agency and innovation" in their provisioning, repair, and distribution.
+- We participate in systems of distributed maintenance
+	- e.g. repair of signages
+- right to repair, embracing 'salvage', transforming the exhausted and wasted into renewed resources 
 ## Corruption - curators who clean and maintain data-a resource that fuels the operation of our digital objects, our networked architectures, and our intelligent cities
+- maintaining buildings and public infrastructure now involves attending to their underlying software
+- for all the talk about innovation and disruptions in the tech industry, most coders are actually busy fixing stuff.
+- A whole suite of roles
+	- system administrators
+	- content moderators
+	- open-source communities - volunteer developers
+		- Being "open," Christopher Kelty writes, carries responsibilities: it "means not only sharing the 'source code'... but devising ways to ensure the perpetual openness of that content-that is, to **create a recursive public** devoted to the **maintenance and modifiability** of the medium or infrastructure by which it communicates."
+	- human "data processors" and "curators" who "clean up" structural problems and reformat data sets used in research and marketing
+		- intervening in data processing and cleaning
+	- digital archivists
+	- librarians
+		-  [Broken-World Vocabularies](https://www.dlib.org/dlib/march17/lovins/03lovins.html) & library metadata, librarians can't 'fix' the external world - they can't hold it steady, nor should they want to - but they maintain the informational systems that help patrons better understand it
+
+## modes of maintenance
+- reactive/responsive care
+- anticipatory repair
+>_There will be dust_. There is always dust. By that I mean there is always time, and materiality, and decay. Decomposition and damage are inescapable. There is always the body, with its smears and secretions and messy flaking bits off. There is always waste and it always has to be dealt with, and shipping it out of sight overseas to the developing world does not change the fact that this work has to be done (and it is dirty, dangerous work that demands its pound of flesh) - Jay Owens in [The Price of Perfection](https://medium.com/@hautepop/the-price-of-perfection-68f1dd1fa147)
+- maintenance, at any particular site, or on any body/object, requires the maintenance of an entire ecology: supply chains, instruments, protocols, social infrastructures, and environmental conditions
+- we are never far from three enduring truths: 
+	- (1) maintainers require care; 
+	- (2) caregiving requires maintenance; and 
+	- (3) the distinctions between these practices are shaped by race, gender, class, and other political, economic, and cultural forces. 
+- Who gets to organize the maintenance of infrastructure, and who then executes the work? Who gets cared for at home, and who does that tending and mending? How do we balance our obligations at various scales: the individual, the community, the city, the ecology?
+- Agreements about what things deserve repair-and what "good repair" entails-are always contingent and contextual. If we wish to better support the critical work performed by the world's maintainers, we must recognize that **maintenance encompasses a world of standards, tools, practices, and wisdom.** Sometimes it deploys machine learning; other times, a mop.
 
 ----
 

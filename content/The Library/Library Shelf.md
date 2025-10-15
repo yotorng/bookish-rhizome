@@ -71,7 +71,7 @@ _Books that I have read._
 - Garlic & the Vampire by Bree Paulsen
 - No Time to Spare: Thinking about What Matters by Ursula K. Le Guin
 - The Moomins and the Great Flood by Tove Jansson ✿
-- Waste Tide by Chen Qiufan
+- [[Waste Tide]] by Chen Qiufan
 - Blockchain Chicken Farm: And Other Stories of Tech in China's Countryside by Wang Xiaowei ✿
 - Comet in Moominland by Tove Jansson
 - Two Heads: A Graphic Exploration of How Our Brains Work with Other Brains by Uta Frith, Chris Frith, Daniel Locke, and Alex Frith

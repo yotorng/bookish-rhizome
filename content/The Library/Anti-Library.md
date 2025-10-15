@@ -9,7 +9,7 @@ _Books on my radar that I've yet to read...a non-exhaustive list!_
 
 trying to curate some sort of a thematic reading list/syllabus shaped loosely around my interests
 
-last updated: 23/09/2025
+last updated: 15/10/2025
 # non-tech bro books 
 how do we think critically about tech? locating signals amidst the noise, the ghosts within our machines
 1. [Code Dependent](https://womensprize.com/in-conversation-with-madhumita-murgia/) by Madhumita Murgia
@@ -28,6 +28,7 @@ how do we think critically about tech? locating signals amidst the noise, the gh
 14. [Life in Code: A Personal History of Technology](https://archive.org/details/life-in-code-a-personal-history-of-technology-ellen-ullman-z-lib.org) by Ellen Ullman
 15. [Atlas of Anomalous AI](https://curamagazine.com/digital/atlas-of-anomalous-ai/) by K. Allado-McDowell[^2]
 16. [Writing the Revolution: Wikipedia and the Survival of Facts in the Digital Age](https://mitpress.mit.edu/9780262046299/writing-the-revolution/) by Heather Ford
+17. [Invisible Users: Youth in the Internet Cafés of Urban Ghana](https://direct.mit.edu/books/monograph/2942/Invisible-UsersYouth-in-the-Internet-Cafes-of) by Jenna Burrell ^278ae1
 
 
 # more-than-human frames
