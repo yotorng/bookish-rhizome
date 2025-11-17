@@ -7,10 +7,10 @@ date: 2025-09-23T13:14:00
 _Books on my radar that I've yet to read...a non-exhaustive list!_  
 ̤̮⋆⁺｡˚⋆˙‧₊☾ ◯ ☽₊‧˙⋆˚｡⁺⋆ ̤̮
 
-trying to curate some sort of a thematic reading list/syllabus shaped loosely around my interests
+trying to curate some sort of a thematic reading list/syllabus shaped loosely around my interests. titles that are striked through have been read!
 
-last updated: 15/10/2025
-# non-tech bro books 
+last updated: 17/11/2025
+# non-tech bro tech syllabus  
 how do we think critically about tech? locating signals amidst the noise, the ghosts within our machines
 1. [Code Dependent](https://womensprize.com/in-conversation-with-madhumita-murgia/) by Madhumita Murgia
 2. [All Data Are Local: Thinking Critically in a Data-Driven Society](https://direct.mit.edu/books/oa-monograph/4323/All-Data-Are-LocalThinking-Critically-in-a-Data) by Yanni Alexander Loukissas
@@ -29,7 +29,10 @@ how do we think critically about tech? locating signals amidst the noise, the gh
 15. [Atlas of Anomalous AI](https://curamagazine.com/digital/atlas-of-anomalous-ai/) by K. Allado-McDowell[^2]
 16. [Writing the Revolution: Wikipedia and the Survival of Facts in the Digital Age](https://mitpress.mit.edu/9780262046299/writing-the-revolution/) by Heather Ford
 17. [Invisible Users: Youth in the Internet Cafés of Urban Ghana](https://direct.mit.edu/books/monograph/2942/Invisible-UsersYouth-in-the-Internet-Cafes-of) by Jenna Burrell ^278ae1
-
+18. [The Eye of the Master: A Social History of Artificial Intelligence](https://www.versobooks.com/en-gb/products/735-the-eye-of-the-master) by Matteo Pasquinelli
+19. [The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World](https://www.versobooks.com/en-gb/products/2684-the-palestine-laboratory) by Antony Loewenstein
+20. [Automating Inequality](https://virginia-eubanks.com/automating-inequality/) by Virginia Eubanks
+21. [The Long Heat: Climate Politics When It’s Too Late](https://www.versobooks.com/en-gb/products/3317-the-long-heat) by Wim Carton and Andreas Malm
 
 # more-than-human frames
 
@@ -39,7 +42,7 @@ how do we think critically about tech? locating signals amidst the noise, the gh
 4. [Things We Could Design: For More Than Human-Centered Worlds](https://mitpress.mit.edu/9780262542999/things-we-could-design/) by Ron Wakkary
 5. [Playing Nature: Ecology in Video Games](https://www.jstor.org/stable/10.5749/j.ctvthhd94) by Alenda Y. Chang
 6. [Field Guide to the Patchy Anthropocene: The New Nature](https://www.sup.org/books/anthropology/field-guide-patchy-anthropocene) by Anna Lowenhaupt Tsing, Feifei Zhou, Alder Keleman Saxena, Jennifer Deger
-7. [The Nutmeg's Curse: Parables for a Planet in Crisis](https://press.uchicago.edu/ucp/books/book/chicago/N/bo125517349.html) by Amitav Ghosh 
+7. [The Nutmeg's Curse: Parables for a Planet in Crisis](https://press.uchicago.edu/ucp/books/book/chicago/N/bo125517349.html) by Amitav Ghosh
 
 # sociology/journalism
 

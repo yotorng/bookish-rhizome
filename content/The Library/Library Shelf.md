@@ -11,7 +11,8 @@ _Books that I have read._
 # currently reading...
 - *paused for now*: [[permaculture|Permaculture]]: Principles & Pathways Beyond Sustainability by David Holmgren
 - *paused for now*: Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence by Kate Crawford
-- Small Boat by Vincent Delecroix 
+- The Years by Annie Ernaux, translated by Alison L. Strayer 
+- Ghost Cities by Siang Lu
 
 # 2025
 - Sister Snake by Amanda Lee Koe
@@ -39,6 +40,14 @@ _Books that I have read._
 - [[Empire of AI Dreams and Nightmares in Sam Altman's OpenAI|Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI]] by Karen Hao
 - Paradise Logic by Sophie Kemp
 - [[A City is Not a Computer| A City is Not a Computer: Other Urban Intelligences]] by Shannon Mattern
+- Hungry In Osaka by Eka Wong, Chew Huai Jin
+- All Systems Red: Book 1 of The Murderbot Diaries by Martha Wells
+- Babel by R.F. Kuang
+- Rejection by Tony Tulathimutte
+- [[Small Boat]] by Vincent Delecroix 
+- [[Endling]] by Maria Reva
+- Manacled by SenLinYu
+- Shane, the Lone Ethnographer: A Beginner's Guide to Ethnography by Sally Campbell Galman
 
 # 2024
 

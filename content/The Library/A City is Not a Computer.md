@@ -6,11 +6,25 @@ date: 2025-09-18T22:16:00
 ---
 Book by Shannon Mattern
 
-main ideas (summarised, in the midst of cleaning this up)
-- turning away from computational form of thinking for its totalising inclinations 
-- Embracing a multiplicity of urban intelligences that reside **outside** of a dashboard, including the ephemeral, sensorial, long-term/cross-generational ways of knowing the city
-- aspirational role of the library - one that deeply resonates in my work too
-- maintenance codes - 
+💡🏢~smart~ nation this...⚡️🛜~digital~ transformation that...📊🖥️ are these highly-optimised, almost hubristic computational approaches really the only way to understand our cities? 🚨 In 'A City Is Not A Computer', as the title very much suggests, Mattern troubles the idea of "smart cities".
+
+Through a series of essays, she argues against attempts to reduce our cities into mere 📈dashboards 🎛️ and turns our gaze, instead, towards 🫧🐦‍⬛different ways of knowing the city🌳⛓️ This includes recognising urban data:
+- 🏠 in **context**: with local, relational, indigenous communal methods that cannot be easily contained/captured in texts or artefacts, like oral culture/histories and rituals
+- 👣 as **sensorial and bodily**: e.g. food, sport, dance
+- 🪨 as **more-than-human**: ephemeral, ambient almost 'immaterial' environmental data belonging to geologic/climatic timescales like wind, rust, cracks in building facades
+- 💾 as **mutable**, with the propensity to be reshaped, lost or forgotten
+
+🏙️🗃️Mattern goes on to imagine the ways knowledge institutions and infrastructures can steward these urban intelligences. She proposes public libraries as a fertile starting site (this chapter was so fun and refreshing to read!! 🤓), and spotlights the quotidian but critical infrastructures of 🧹maintenance🔧 embedded in our urban assemblages.
+
+I enjoyed this read!! Definitely one of my more academic reads of the year, but its topics deeply resonate with me and my work. Mattern's writing can be full of academic jargon at times, but her ideas and references are really rich. I'm guessing that I will return to this book from time to time, or use it to locate my next read...fun!! 
+
+🔋💡⚡️🛜💻💿🖲️🧑‍💻💾🖥️📈🎛️🚨📶🏙️🌆🫧🐦‍⬛🪨
+
+"Smart", computational modes of urbanism advances an impoverished understanding of what we can know about a city, as well as what's worth knowing.
+- Cities encompasses countless other forms of local, place-based, indigenous intelligences and knowledge institutions
+- Embracing a multiplicity of urban intelligences that reside **outside** of a dashboard, including the ephemeral, sensorial, long-term,cross-generational ways of knowing the city
+- role of the library as a site to steward urban intelligences, amidst its conscription to smart city narratives
+- maintenance codes 
 
 ---
 # Intro: Cities, Trees & Algorithms
@@ -46,8 +60,8 @@ main ideas (summarised, in the midst of cleaning this up)
 >City-as-tree, city-as-graft, city-as-computer: each metaphor is necessarily reductive, but **when recognized as partial and temporary, rather than totalizing lenses, and when deployed in tandem, when triangulated, they can reveal a city in its prismatic complexity**. They suggest multiple ways of thinking about what a city is, how it's made and managed and maintained, and what intelligences are.
 
 - "Smart", computational nodes of urbanism advances an impoverished understanding of what we can know about a city, as well as what's worth knowing.
-- cities encompasses countless other forms of local, place-based, indigenous intelligences and knowledge institutions
-	- vital supplement and corrective to increasingly prevalent algorithmic models
+- Cities encompasses countless other forms of local, place-based, indigenous intelligences and knowledge institutions
+	- function as a vital supplement and corrective to increasingly prevalent algorithmic models
 	- how do we steward these institutions and infrastructures?
 	- how do we productively graft networked digital tools and artificial intelligences onto local, communal, material modes and means of knowledge creation
 - our new technologies are grafted on rotten roots
@@ -164,7 +178,7 @@ In [Public Libraries in the Smart City](https://link.springer.com/book/10.1007/9
 - sensors for monitoring visitor flows, shelf-reading robots, RFID tags to track book circulation, machine learning to add metadata to digitised collections, etc
 - Libraries have been **conscripted to smart city narratives**, where libraries have been explicitly written into the nation's smart city/national digital infrastructure initiatives (Singapore, Australia, and Scandinavia)
 ## library-as-sociotechnical-infrastructure
->Thinking about the library as a **network of integrated, mutually reinforcing, evolving infra-structures**—in particular, architectural, technological, social, epistemological, and ethical infrastructures— **can help us better identify what roles we want our libraries to serve, and what we can reasonably expect of them**. What ideas, values, and social responsibilities can we scaffold within the library's material systems: its walls and wires, shelves and servers?
+>Thinking about the library as a **network of integrated, mutually reinforcing, evolving infrastructures**—in particular, architectural, technological, social, epistemological, and ethical infrastructures— **can help us better identify what roles we want our libraries to serve, and what we can reasonably expect of them**. What ideas, values, and social responsibilities can we scaffold within the library's material systems: its walls and wires, shelves and servers?
 > 
 > In this chapter we'll consider how the library functions **both as a knowledge infrastructure and a social infrastructure**—one that provides critical services, especially for those marginalized populations who are either irrelevant to or criminalized by the smart city's all-seeing sensors and all-knowing databases. We'll examine how public and academic libraries do, or could, **play important supplemental or adversarial roles in cities powered by proprietary technological platforms and monitored by automated surveillance networks**. 
 > 
@@ -181,7 +195,7 @@ How might the institution build **physical and social infrastructure**s that sca
 Libraries resolutely embody **unsmart knowledge politics** and uphold the ideals of inclusion, equity, and justice above efficiency, convenience, profit, and the tangle of compromised values undergirding capitalism in its various permutations: racial, platform, surveillance capitalism, and so forth.
 
 Libraries (in addition to promoting media and informational literacy) can also look at:
-- **data literacy & justice**: thinking aboutt data in context, data ownership & rights 
+- **data literacy & justice**: thinking about data in context, data ownership & rights 
 	- libraries can be a middle ground for civic data initiatives
 	- spaces where ppl cn go to learn abt data being collected abt them, hv a voice in howw they are collected, managed, and used
 	- curating and caring for data more responsibly, so the data can also respect the lives and environments they represent
