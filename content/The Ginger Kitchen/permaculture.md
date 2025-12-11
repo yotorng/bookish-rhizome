@@ -1,6 +1,6 @@
 ---
 title: permaculture
-draft: false
+draft: true
 tags:
   - "#composting"
 date:

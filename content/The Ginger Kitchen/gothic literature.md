@@ -29,7 +29,6 @@ date: 2025-11-17T15:34:00
 	- Threatened patriarchal controls over these ideals
 	- in an era of rapidly growing female reading public and increased availability of texts
 
-
 Female gothic authors & their works
 - Ann Radcliffe, who inspired Jane Austen, Mary Shelley and Walter Scott
 	- _The Mysteries of Udolpho_
@@ -37,7 +36,6 @@ Female gothic authors & their works
 - Jane Austen's _Northanger Abbey_ 
 - Mary Shelley's _Frankenstein_
 	- More notes on Frankenstein [[2025.09.24#^8db5ac|here]]
-
 
 Source: 
 [_A Guide to the Gothic_](https://pressbooks.pub/guidetogothic/) by Jeanette A. Laredo

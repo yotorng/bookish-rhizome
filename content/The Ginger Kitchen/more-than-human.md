@@ -1,8 +1,9 @@
 ---
-title: more than human
+title: more-than-human
 draft: false
 tags:
   - composting
+  - grove
 date: 2025-09-07T23:25:00
 ---
 An excerpt[^1]
@@ -33,3 +34,5 @@ On complexity & thinking with trees - Shannon Mattern[^2]
 
 [^2]: Multispecies Worldbuilding Lab Shannon Mattern [episode](tab:https://multispeciespod.buzzsprout.com/566254/episodes/9956511-shannon-mattern)
 
+
+- [[2025.09.18#^d0407c|Video games & ways of worlding]]

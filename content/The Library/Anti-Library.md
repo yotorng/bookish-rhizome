@@ -11,7 +11,10 @@ trying to curate some sort of a thematic reading list/syllabus shaped loosely ar
 
 last updated: 17/11/2025
 # non-tech bro tech syllabus  
-how do we think critically about tech? locating signals amidst the noise, the ghosts within our machines
+
+^a227f2
+
+how do we think critically about tech? locating [[signals amidst the noise, ghosts in the machine]]
 1. [Code Dependent](https://womensprize.com/in-conversation-with-madhumita-murgia/) by Madhumita Murgia
 2. [All Data Are Local: Thinking Critically in a Data-Driven Society](https://direct.mit.edu/books/oa-monograph/4323/All-Data-Are-LocalThinking-Critically-in-a-Data) by Yanni Alexander Loukissas
 3. [Data Feminism](https://direct.mit.edu/books/book/4660/Data-Feminism) By Catherine D'Ignazio, Lauren F. Klein

@@ -41,6 +41,7 @@ Palm oil - monoculture process
 - if you take the monoculture system and force on our tropical climate systems - it will not work!! 
 - our agricultural systems are still colonised
 - if we design an agricultural system inspired by the tropical system - e.g. if you are orang asli, the forest will be layered, embrace diversity
+
 ![[Palm Oil Fruit.png|300x400]]
 ## Stage 1 - pioneer/coloniser species
 

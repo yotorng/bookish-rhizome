@@ -11,8 +11,7 @@ _Books that I have read._
 # currently reading...
 - *paused for now*: [[permaculture|Permaculture]]: Principles & Pathways Beyond Sustainability by David Holmgren
 - *paused for now*: Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence by Kate Crawford
-- The Years by Annie Ernaux, translated by Alison L. Strayer 
-- Ghost Cities by Siang Lu
+- Fierceland by Omar Musa
 
 # 2025
 - Sister Snake by Amanda Lee Koe
@@ -48,6 +47,10 @@ _Books that I have read._
 - [[Endling]] by Maria Reva
 - Manacled by SenLinYu
 - Shane, the Lone Ethnographer: A Beginner's Guide to Ethnography by Sally Campbell Galman
+- Ghost Cities by Siang Lu
+- The Years by Annie Ernaux, translated by Alison L. Strayer 
+- Frankenstein: Annotated for Scientists, Engineers, and Creators of All Kinds by Mary Shelley, edited by David H. Guston, Ed Finn, and Jason Scott Robert
+- Open Throat by Henry Hoke
 
 # 2024
 
