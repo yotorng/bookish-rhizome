@@ -4,7 +4,6 @@ draft: false
 tags:
 date: 2025-12-11T12:00:00
 ---
-# Artificial Figures: Gender-in-the-making in algorithmic culture
 A public lecture by NTU Humanities, by Dr Thao Phan
 
 ## Darmouth, 1956, the 'birthplace' of artificial intelligence as a field
@@ -93,165 +92,150 @@ What we might call a **figurative moment in AI's contemporary history**:
 	- Concerned with math,  the symbolic and the abstract -> whcih led to him excelling in cryptoanalysis
 	- A profession not only qualitatively identical to form with mathematics, but also structurally at the institution he was affiliated with, one that demanded a bifurcation of self (inside and outside)
 	- Working with the govt decoding top secret messages required discretion, but in the sense of being discreet(secret), but also in discrete (Separate and apart from others) 
-
-formal mandate to sep professional work frm personal life
-
-the idea of discrete states failed turing
-
-- there is no sep btw professional and political
-
-  
-
-why wasnt ai borned as a queer science
-
-- gendered erasure of ai
-
-  
-
-turing test as an object lesson
-
-- foreclose limits of ai possibility
-## Figure 2: Apple & Siri 
-- Apple claims that Siri was not assigned a gender
-- siri's female gendered voice!!!!!!! as the default option 
-- performs tasks associated w feminised labour
-- secretarial work, clerical work etc
-- further characterise cultural biases 
-- sitting in dialogue of the turing test
-
-ai starting to do new things w gender
-
-- siri doesnt reproduce them, but reconfigures and degenders 
-
-- tasks - recognise them as real and recognisable labour 
-
-- technologising suddenly reconfigures cultural capital w the performance of these labour 
-
-- culturally more alert to the value of these activities
-
-tasks only acquired value once deassociated from actual women 
-
-- allow work to bleed ino social space 
-
-- to be introduced to the same mechanisms that govern work
-
-commercial promise not a relief frm work but thay MORE WORK CAN BE DONE
-
-  
-
-infrastructure for more work
-
-latent consent to subordinate all life into MORE WORK
-
-  
-
-post-fordic worker
-
-- no separation of one day from the other
-
-- ends 
-
-- hypermasculine
-
-  
-
-reproductive labour
-
-  
-
-gender is not just in the making, but co-produced w race and nation
-
-- regional dialect: no place that google cannot go, google not just arrived here but was everywhere
-
-- smoothened the process of entering the market
-
-  
-
-finding the right voice for their machines
-
-"natural sounding voice"
-
-- natural as a justification for certain design decisions
-
-- HCI - fundamental instincts on speech 
-
-- for developers rule of thumb is to work withthese biases instead of against them
-power of evolutionary psychology - predict user attitudes 
-
-human nature - manifests as an inevitable nature
-
-go to great lengths developing regional dialects 
-
-sidestep issues 
-
-  
-
-naturalise sexist and racist reactions to voice
-
-  
-
-the google ad
-
-transnational company like google - neocolonial technique to settle into the country 
-
-  
-
-challenges to binary life 
-
-humans reconfigure terms of gender 
-
-  
-
-reshape how we think of ai and how we thinks about gender
-
-  
-
-gender becomes technologised 
-
-herbert simon - performance by family
-
-- performing nature/artificial
-
-  
-
-multiple shuffling bodies of human, women, children
-
-- real labour of automation
-
-  
-
-q: what do u mean about ai as a queer science
-
-entire structure of the game relies on gendered performance, embodiment
-
-staying with the body, of expansive place of playfulness 
-
-stopped ai from going down that particular path
-
-  
+	- Hodges (who wrote Turing's biography) mentioned that Turing's work in code-breaking during WWII mimicked the Turing test, where he communicated via teleprinter, left onine in a room of his own world solely by rational argument, bounded by the official secrets act, which prevents him from sharing work from their closed and loved ones.
+	- A formal mandate to separate professional work from personal life.
+		- Discrepancies between public and private record could only be reconciled in the 1970s after the security protocols were loosened
+	- Although Turing believed life could be organised into single discrete states, no separation was ever possible
+		- the idea of discrete states failed Turing when he was eventually charged with gross indecency, forced to either undergo imprisonment or probation with hormonal treatment (designed to decrease his libido and more specifically 'curtail the homosexual drive').
+		- he chose the latter
+		- Turing lost access to cryptology work, declined security clearance due to him being deigned a "sex pervert" enacted by a homophobic state
+		- Discretion was a privilege revoked by the homophobic state following his conviction and soon found there could be no separation between the professional and the political, between sexuality and trustworthiness, between intellectual work and physical pleasure.
+		- 'Treatment' ultimately failed to reform his sexuality  ![[Turing!.jpeg]]
+- So given the arguably clear and transgressive nature of the Turing test, and the queer and transgressive life of Alan Turing himself, why wasn't AI born as a queer science?
+	- One that could challenge rather than actively conform to binary difference
+	- Why did AI become a technology of gender erasure and encoded in inequality, insetad of a figure of liberation and existence?
+	- The obvious answer is that these subversive readings were simply too radical to comprehend at the time
+		- Particularly during the period of publication, the absolute belief in the binary nature of gender and sexual difference in the UK prevented many of the implicit arguments in the Turing test to be carried to their logical conclusion.
+- **Turing test as an object lesson on how oppressive ideas of gender and sexual citizenship foreclose the limits of AI possibility**
+- death by cyanide poisoning, next to his body was a half-eaten apple...the  bite of the poison apple still lingers in the contemporary imaginary as the *computer bite of the apple logo*[^1]
+
+## Figure 2: Apple & the figure of the digital assistant Siri 
+- Apple insists that Siri was not assigned a gender, is genderless ; programmed with more than half a dozen of responses to the question of gender, all designed to reject or deny its presence
+- And yet - Siri's female gendered voice!!!!!!! as the default option 
+	- tension between Siri's self-declared genderlessness and its dominant global identity
+	- female voice remains the most common cultural voice associated with the programme, and is the preferred voice featured in Siri's promotional material
+- In addition: Siri performs tasks traditionally associated w feminised labour
+	- Set alarms, reminders, create shopping/to-do lists etc
+	- Secretarial work, clerical work that is labour associated with women industries ; fall under rubric under social production
+- Indicative of broader stereotypes that claim women as naturally suited to performing certain kinds of labour
+	- AI figures like Siri are criticised as regressive or problematic, because they further cultural biases that characterise women as obedient or subservient 
+- In addition, they would like offer an alternative reading, one that sits in dialogue of the Turing Test example. 
+>*...where it was the rigidity of the gender that defined the limits and possibilities for AI, here we can see **AI starting to do new things with gender***...*the issue with Siri is not in the ways*
+*that it reproduces conventional forms of gender and feminised labour, but **in the ways that it reconfigures and in some cases, de-genders this labour**.*
+- In Apple commercials, they **explicitly frame Siri as a technological solution to the burden of social reproductive labour**
+	- In the ad, shows Siri helping a man during his afternoon run to read messages and organise meetings, check the traffic and weather report, makes reminders etc etc
+	- performs tasks on behalf of its proprietor, and in doing so, recognises this micro-social labour as a form of real and legitimate labour
+- As Helen Hester has compellingly argued, **it's no coincidence that this once invisible labour is suddenly recognisable once it has been technologised**.
+	- As tech works to redistribute these micro-tasks, it simultaneously reconfigures the cultural capital associated with their performance
+	- technologising, as a term, doesn't even necessarily capture the extent to which there's the human users who do most of the work (we set the alarms etc)
+	- She suggests that it may be that we are more culturally alert to the value of these activities** now that different kinds of people are more likely to be involved with them
+- The way we reconfigure social status and the technologisation of reproductive labour illustrates the **continued derision of femininity,** and so far as, **feminised tasks only acquired value once dissociated from actual women.** 
+- Along with the receding and stigma of social reproductive work, is the **subtle extension of the category of work into an increasingly broad range of practices and activities**.
+	- Digital technologies not only allow work to bleed into social space, but also enables activities that previously existed in that space to be controlled under the same mechanisms that govern work.
+	- Siri not allows one to do work during an afternoon run, but also turns the run itself into a kind of work
+- Commercial promise of Siri is not a relief from work, but a guarantee that more work can be done
+	- Embodies a commitment to what Kathi Weeks has coined a '**Post-Fordist Work Ethic'**
+	- Extends from Fordist demands of compliance and work discipling, requiring workers' flexibility, adaptability, and continued reinvention
+	- This sense of identification, pride and commitment results in a self-monitoring that is necessary to **produce the professional**
+	- Siri (and smartphones in general) provides the infrastructure for self-discipline.
+		- wake on time, daily reminder of your responsibilities
+		- makes it possible for you to form tasks with your voice even when other parts of your body are already engaged.
+		- helps to cultivate within each and every waged worker a latent consent to subordinate all life into MORE WORK
+- An ad that personifies the Post-Fordist Worker at their best: 2017 ad -The Rock with Siri Dominate the Day
+	- We can interpret the ending, as we stride into the sunset and in true blockbuster fashion, gesturing to an already in-production franchise follow-up, as a metaphor for the daily routines and expectations of the hyper-employed post-fordist worker.
+	- As the sun barely sets on one working day, the demands of another have already commenced.
+	- There is no separation, no sense of containment between one day to the next, between one task to another
+	- The tools of work issue reminders of work that needs doing, even while work is already being done.
+	- Each day is defined by an impossible to-do list, that paradoxically, with the commitment of time and effort, seems to only grow rather than shrink.
+- This inherently neoliberal subject that perceives individual responsibility over their own productivity has, since the beginning, loomed large over Siri's design and intention.
+	![[Siri Origin.jpeg]]
+- This conceited claim to power is premised on the genedered resignification of reproductive labour
+	- In the example of the rock, reproductive labour is classified as essential responsibility of the hyper-masculine post-Fordist subject
+	- a necessary change so they can control their productive capacities
+- On the other hand, this figuration simultaneously reinstates a hierarchy of labour
+	- condescendingly classifies administrative and clinical tasks as low-grade labour, unworthy of human attention
+	- a tedious distraction from the task at hand
+- gender is not just in the making within these commercial AI figures, but always co-produced with other categories like race and nation
+- For example: Google's ad featuring their latest iteration of the voice of their digital assistant
+	- A vocal update with an Australian accented voice
+	- Each place was effortlessly passed through Google's neural networks and artificial speech synthesizers.
+	- regional dialect: there was no place that google would not go, no place its networks could not expand and adapt
+	- A signal that Google, the corporation, had not just arrived here but was everywhere
+- Attuning to regional dialects is just one technique that global tech companies use to smoothen the process of entering local markets
+	- more than advertising gimmicks
+	- these kinds of aesthetic considerations are instituted on the back of recommendations made by researchers, examining the psychology of human voice perception and its implications for user experience.
+	- spend millions on trying to find 'the right voice' for their machines
+		- the right tones, but also one that feels like it belongs
+		- what Google calls a 'natural sounding voice'
+- In HCI, the field that accompanies the development of digital assistance, the term *natural* is often used as a justification for certain design decisions
+	- HCI research has claimed that the human brain has developed fundamental instincts concerning speech, resulting from our biological evolution, our brains are said to just be naturally drawn to certain voices, to use speech for certain purposes, and to have built into them, specific biases.
+	- For developers, rule of thumb is to work with these biases instead of against them
+	- Claims that humans do not have the ability to overcome these biases
+	- he writes: over the course of 200,000 years of evolution, humans have become voice-activated with the brains that are wired to equate voices with people and to act quickly on their identification...The power of evolutionary psychology, with respect to AI's synthesised speech, is in its ability to predict user attitudes and behaviours 
+![[speech psychology.jpeg]]
+- human nature here manifests as an inevitable, irredeemable human nature
+	- Something that allows designers to explain away a questionable, problematic design decisions (such as the almost ubiquitous use of female gender voices for digital assistance)
+- HCI researchers contend that this phenomenon merely reflects data from users that indiates that they have a 'natural' preference for such voices, due to the twists and turns of 'human evolution'
+- Similarly, Google go to great lengths developing regional dialects, because their data suggests users react poorly to foreign accents and voices
+	- Rather than question or confront this bias, designers choose to sidestep this issue by regionalising access
+	- Today, there are more than 90 languages in the Google system, including 13 English accents alone.
+	- These design principles reproduce the conservative antennae at the heart of evolution psychology, but there is one universal human nature that has logically emerged as a result of natural selection.
+- Countering this logic would risk pushing against 'human evolution'
+- By conflating user discomfort with a biologically developed instinct or aversion, HCI researchers aggressively class foreign accent and voices as an 'unnatural' design choice
+	- naturalise sexist and racist reactions to voice, which are arguably more of the result of social, cultural and critical conditioning as much as biological or evolutionary development
+- Songs like, I've been everywhere, resonate with the Australian imaginary because they reproduce the nostalgic and idealised national identity, one that is defined by implicit whiteness and channeling parochialism, help to weave a myth of Australian difference that functions to naturalise rights that belonged to the dispossessed indigenious groups
+- Google's efforts at accent regionalisation can be thought of as neocolonial technique, as a way for this transnational company to 'settle' in Australia 
+
+## to conclude
+>"Figures like Turing and the Google Assistant show us the dynamic and multiple layers of this thing we call artificial intelligence. In following science-in-action, we can trace not just gender-in-the-making, but all kinds of formations, of class, of nation, of race."
+-  Ultimately **a challenge to binary life**
+	- Artificial conditions that produce supposedly natural distinctions between mind and body, between masculine and feminine, between natural and unnatural, between humans and machines
+	- The expansion of digital infrastructure, the growth in computational power, the push to incorporate these new technologies into existing institutions from public to private, into every and to into every sphere of human activity, has meant that the **binary language of zeros and ones now inescapably governs the terms of daily life**.
+	- Simultaneously, the historic domination of the concept of binary gender is under increasing scrutiny
+		- Queer activists and scholars have lived away, m**odelling forms of life that are not governed by rigid dualistic gender presets, questioning logic and ethics of living under binary gender** and its patriarchal companion and compulsory heterosexuality
+- These vastly altered landscapes in **which humans reconfigure the terms of gender at the same time that machines adopt them marks an exciting moment in the undoing of nature-culture binaries 
+	- in which the artifice of this distinction becomes legible to a greater public
+- Reshape how we think of AI and its gender configuration
+	- As a field shaped by gendered cultures
+	- As a system that impact gendered bodies
+	- As an apparatus that embodies gendered ways of life 
+- The figures help us see:
+	- how technology and technological cultures become gendered, and are shaped by gender
+	- how through these same processes, gender becomes technologised
+	- Turing test illustrates how - gender was systematised, codified, reduced to a programme set of instructions used by machines to manipulate and deceive ; gender no longer understood as an index to nature, but as a sign of the creeping artifices of algorithmic culture
+
+Returning to the Darmouth workshop, and the first demonstration of AI
+![[Darmouth workshop.jpeg]]
+
+- Called Logic Theory
+- Not on a computer, but simulated using human parts
+- by Herbert Simon using his own wife, children and graduate students to physically perform the programme
+- He wrote the individual rules or subroutines in components of memory of the program on index cards and assigned one to each person. Participant then executed the subroutine or provided the contents of their memory when called upon.
+The first demonstration that machines can think:
+
+![[performance.jpeg]]
+- the performativity of both nature and artifical are hopelessly entangled
+- the image of a single hero scientist is fractured by the multiple shuffling bodies of women and children and students moving.
+>*"Here, the real labour of automation presents itself in plain sight. Even at the primordial scene of the birth of artificial intelligence, our first intelligent machines turned out to be humans all along."*
 
 ----
+Q: What do u mean about AI possibly as a queer science
+- entire structure of the Turing Test game relies on gendered performance, embodiment, and gendered bodies
+- current discussions of AI is disembodied, take the body out of the equation, study the outputs on pieces of paper
+- What if we stayed with the body, and think of AI from an expansive place of playfulness, of gendered and queer play, 
+- argues that the restriction to his work based on his sexuality was what stopped ai from going down that particular path
 
-q: voice/dialect
+Q: voice/dialect
+- not just evolutionary inclination, challenge that!!!
 
-not just evolutionary inclination, challenge that!!!
+Q: AI & STS - simultaneously reaching for a global, international dominance, but also companies recognising the value of nations, of a local level ; how do you think ai studies will interact with these changes (local systems that rely on intrinsically international systems)
+- speaks to social fracture that we live in, the fantasy of globalisation
+- undoing of the globalised subject and infrastructure,
+- each country - try find project to nationalise AI 
+	- Making it 'native' to the country (e.g. vietnam and making an AI stack that isnt reliant on either china or us) 
+	- Europe stack
+	- australia and sg as a global test bed for ai systems, products and service testing 
+- national expressions of what ai is
+- interlinking of corporate and national interests 
 
-- 
-
-  
-
-ai & sts ; localisation
-
-- local systems, lie on instrincately international systems
-
-- speaks to social fracture 
-
-- undoing of a
-
-- each country - try find project to nationalise AI (kfksjdlckskckejd)
-
-- ai nationalisation
-
-- sg as a test bed 
-
-- national expression of ai
+[^1]: GOTTA GIVE IT UP FOR THIS TRANSITION!!!

@@ -20,6 +20,6 @@ Visit...
 
 ☞︎︎︎🫚🥘 the [[/The Ginger Kitchen/|ginger kitchen]], where ideas brew, bubble, and alchemise ‧₊˚ ⋅ 𓐐‧₊˚ ｡𖦹°⋆༶⋆˙⊹𓎩
 
-☞︎︎︎🎋 🤲the [[/The Bamboo Grove/|bamboo grove]], a collection of (relatively) organised indexes 𖤣𖤥𖡼.𖤣𖥧𖥧𓇣𓐣 𓇬
+☞︎︎︎🎋🤲 the [[/The Bamboo Grove/|bamboo grove]], a collection of (relatively) organised indexes 𖤣𖤥𖡼.𖤣𖥧𖥧𓇣𓐣 𓇬
 
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘  

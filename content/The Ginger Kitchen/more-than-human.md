@@ -3,7 +3,6 @@ title: more-than-human
 draft: false
 tags:
   - composting
-  - grove
 date: 2025-09-07T23:25:00
 ---
 An excerpt[^1]

@@ -9,7 +9,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "are.na": "https://www.are.na/yitorng/channels",
-      "IG": "https://www.instagram.com/bookish.rhizome/",
+      "instagram": "https://www.instagram.com/bookish.rhizome/",
+      "storygraph": "https://app.thestorygraph.com/profile/tryingmilo"
     },
   }),
 }

@@ -2,7 +2,6 @@
 title: signals amidst the noise, ghosts in the machine
 draft: false
 tags:
-  - grove
 date: 2025-12-11T13:00:00
 ---
 thinking critically about tech
