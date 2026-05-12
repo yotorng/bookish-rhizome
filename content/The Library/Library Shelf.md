@@ -11,8 +11,20 @@ _Books that I have read._
 # currently reading...
 - *paused for now*: [[permaculture|Permaculture]]: Principles & Pathways Beyond Sustainability by David Holmgren
 - *paused for now*: Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence by Kate Crawford
-- Fierceland by Omar Musa
+-  *paused for now*: [[Working in Public|Working in Public: The Making and Maintenance of Open Source Software]] by Nadia Asparouhova
 
+# 2026
+- Minor Detail by Adania Shibli
+- Drive Your Plow Over the Bones of the Dead by Olga Tokarczuk
+- The Place of Tides by James Rebanks
+- [[Shantih Shantih Shantih]] by Daryl Qilin Yam
+- The Dream Hotel by Laila Lalami
+- A Thousand Mornings: Poems by Mary Oliver
+- Women Without Men by Shahrnush Parsipur
+- Critical Fabulations: Reworking the Methods and Margins of Design by Daniela K. Rosner
+- Hicotea by Lorena Alvarez Gomez
+- Unease by Teo You Yenn ✿
+- It Lasts Forever and Then It's Over by Anne de Marcken ✿
 # 2025
 - Sister Snake by Amanda Lee Koe
 - Weather by Jenny Offill
@@ -47,10 +59,12 @@ _Books that I have read._
 - [[Endling]] by Maria Reva
 - Manacled by SenLinYu
 - Shane, the Lone Ethnographer: A Beginner's Guide to Ethnography by Sally Campbell Galman
-- Ghost Cities by Siang Lu
-- The Years by Annie Ernaux, translated by Alison L. Strayer 
-- Frankenstein: Annotated for Scientists, Engineers, and Creators of All Kinds by Mary Shelley, edited by David H. Guston, Ed Finn, and Jason Scott Robert
+- [[Ghost Cities]] by Siang Lu
+- [[The Years]] by Annie Ernaux, translated by Alison L. Strayer 
+- Frankenstein: Annotated for Scientists, Engineers, and Creators of All Kinds by Mary Shelley, edited by David H. Guston, Ed Finn, and Jason Scott Robert ✿
 - Open Throat by Henry Hoke
+- [[Fierceland]] by Omar Musa ✿
+-  [[Água Viva]] by Clarice Lispector ✿
 
 # 2024
 

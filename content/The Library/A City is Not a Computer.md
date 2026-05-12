@@ -239,6 +239,8 @@ Yet, of course, that content is shaped and distributed through various technolog
 
 # Chapter 4: Maintenance Codes
 
+^c6fb02
+
 - Rather than building anew, however, what we really need to study is how the world gets put back together, maybe not as it was, but, instead, **how we want it to be**
 - Attending to the everyday, yet humbly radical, work of maintenance, caretaking, and repair
 - Steven Jackson: "Rethinking Repair" — way back in 2014—proposes that we "take erosion, breakdown, and decay, rather than novelty, growth, and progress, as our **starting points**" in considering relations between society and technology. 

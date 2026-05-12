@@ -17,7 +17,7 @@ last updated: 17/11/2025
 how do we think critically about tech? locating [[signals amidst the noise, ghosts in the machine]]
 1. [Code Dependent](https://womensprize.com/in-conversation-with-madhumita-murgia/) by Madhumita Murgia
 2. [All Data Are Local: Thinking Critically in a Data-Driven Society](https://direct.mit.edu/books/oa-monograph/4323/All-Data-Are-LocalThinking-Critically-in-a-Data) by Yanni Alexander Loukissas
-3. [Data Feminism](https://direct.mit.edu/books/book/4660/Data-Feminism) By Catherine D'Ignazio, Lauren F. Klein
+3. [Data Feminism](https://direct.mit.edu/books/book/4660/Data-Feminism) By Catherine D'Ignazio, Lauren F. Klein ^65bb7b
 4. [Gaia's Web: How Digital Environmentalism Can Combat Climate Change, Restore Biodiversity, Cultivate Empathy, and Regenerate the Earth](https://mitpress.mit.edu/9780262048750/gaias-web/) by Karen Bakker
 5. [[A City is Not a Computer]] by Shannon Mattern
 6. [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.ruhabenjamin.com/race-after-technology)  by Ruha Benjamin

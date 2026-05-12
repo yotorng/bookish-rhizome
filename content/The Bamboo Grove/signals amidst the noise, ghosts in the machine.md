@@ -14,6 +14,7 @@ materials
 - [[Empire of AI Dreams and Nightmares in Sam Altman's OpenAI]]
 - [[The Internet Con How to Seize the Means of Computation]]
 - [[Waste Tide]]
+- [[Working in Public]]
 
 reading list [[Anti-Library#^a227f2|here]]
 
