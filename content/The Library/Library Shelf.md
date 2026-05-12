@@ -12,10 +12,12 @@ _Books that I have read._
 - *paused for now*: [[permaculture|Permaculture]]: Principles & Pathways Beyond Sustainability by David Holmgren
 - *paused for now*: Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence by Kate Crawford
 -  *paused for now*: [[Working in Public|Working in Public: The Making and Maintenance of Open Source Software]] by Nadia Asparouhova
+- [[The Death and Life of Great American Cities]] by Jane Jacobs
+- 
 
 # 2026
 - Minor Detail by Adania Shibli
-- Drive Your Plow Over the Bones of the Dead by Olga Tokarczuk
+- [[Drive Your Plow Over the Bones of the Dead]] by Olga Tokarczuk
 - The Place of Tides by James Rebanks
 - [[Shantih Shantih Shantih]] by Daryl Qilin Yam
 - The Dream Hotel by Laila Lalami
@@ -24,7 +26,7 @@ _Books that I have read._
 - Critical Fabulations: Reworking the Methods and Margins of Design by Daniela K. Rosner
 - Hicotea by Lorena Alvarez Gomez
 - Unease by Teo You Yenn ✿
-- It Lasts Forever and Then It's Over by Anne de Marcken ✿
+- [[It Lasts Forever and Then It's Over]] by Anne de Marcken ✿
 # 2025
 - Sister Snake by Amanda Lee Koe
 - Weather by Jenny Offill
