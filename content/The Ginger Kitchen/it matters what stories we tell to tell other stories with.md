@@ -9,5 +9,5 @@ date: 2025-09-23T10:34:00
 - storytelling in terms of intentional representation, challenging dominant narratives
 - storytelling as a creative avenue ripe for subversion  
 	- see [[gothic literature]]
-
+- storytelling as frames, opportunities to dismantle and reconstruct frames and layers of seeing the world
 

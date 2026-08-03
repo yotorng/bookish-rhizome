@@ -9,6 +9,7 @@ thinking critically about tech
 - [[Artificial Figures Gender-in-the-making in algorithmic culture]]
 - [[technology is built from, relies on, and irrevocably grounded in the material.]]
 - [[woven technologies]]
+- [[School of Alternate Internets 2026]]
 
 materials
 - [[Empire of AI Dreams and Nightmares in Sam Altman's OpenAI]]

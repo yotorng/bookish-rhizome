@@ -13,7 +13,7 @@ _Books that I have read._
 - *paused for now*: Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence by Kate Crawford
 -  *paused for now*: [[Working in Public|Working in Public: The Making and Maintenance of Open Source Software]] by Nadia Asparouhova
 - [[The Death and Life of Great American Cities]] by Jane Jacobs
-- 
+- Emergent strategy: Shaping Change, Changing Worlds
 
 # 2026
 - Minor Detail by Adania Shibli
@@ -27,6 +27,13 @@ _Books that I have read._
 - Hicotea by Lorena Alvarez Gomez
 - Unease by Teo You Yenn ✿
 - [[It Lasts Forever and Then It's Over]] by Anne de Marcken ✿
+- [[The Utopia of Rules]] by David Graeber 
+- We by Yevgeny Zamyatin
+- Elena Knows by Claudia Piñeiro
+- Moderation by Elaine Castillo
+- She Who Remains by Rene Karabash
+- Strange Houses by Uketsu
+- Names Have Been Changed by Yu-Mei Balasingamchow
 # 2025
 - Sister Snake by Amanda Lee Koe
 - Weather by Jenny Offill
