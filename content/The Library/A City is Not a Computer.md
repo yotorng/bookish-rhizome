@@ -159,6 +159,8 @@ The sites and systems where we locate the city's informational functions—the p
 
 # Chapter 3: Public Knowledge
 
+^b53912
+
 libraries assuming a host of changing social and symbolic functions:
 - symbolise the eminence of a ruler/state/city
 - integrally link knowledge and power

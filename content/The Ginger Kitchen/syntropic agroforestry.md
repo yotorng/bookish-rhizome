@@ -14,7 +14,7 @@ date: 2025-06-21T14:35:00
 - A previous degraded palm oil plantation plot → emphasis on **transition** using syntropic agroforestry techniques and different principles
 	- industrial farming is addicted to inputs
 	- organic farm - do no harm, natural farming
-	- practising regenerative agriculture - melding natural farming, [[permaculture]], and syntropic agroforestry
+	- practising regenerative agriculture - melding natural farming, [[touching grass]], and syntropic agroforestry
 - *Syntropic*: antonym of entropy, spiralling towards organised complexity as opposed to defaulting to chaos
 - *Agroforestry*: rejecting monoculture and embracing food forests
 	- "can we plant the forest while growing the food?"

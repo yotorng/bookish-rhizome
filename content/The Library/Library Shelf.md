@@ -9,7 +9,7 @@ _Books that I have read._
 ✿ : favourites  
 ⋆⁺₊⋆ ☀︎ ⋆⁺₊⋆↟↟↟𖠿 𖤣𖤥𖡼.𖤣𖥧
 # currently reading...
-- *paused for now*: [[permaculture|Permaculture]]: Principles & Pathways Beyond Sustainability by David Holmgren
+- *paused for now*: [[touching grass|Permaculture]]: Principles & Pathways Beyond Sustainability by David Holmgren
 - *paused for now*: Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence by Kate Crawford
 -  *paused for now*: [[Working in Public|Working in Public: The Making and Maintenance of Open Source Software]] by Nadia Asparouhova
 - [[The Death and Life of Great American Cities]] by Jane Jacobs
@@ -157,7 +157,7 @@ _Books that I have read._
 - The Terraformers by Annalee Newitz ✿
 - Convenience Store Woman by Sayaka Murata
 - We Had to Remove This Post by Hanna Bervoets
-- You Are Not Expected to Understand This: How 26 Lines of Code Changed the World by Torie Bosch ✿
+- [[You Are Not Expected to Understand This: How 26 Lines of Code Changed the World]] by Torie Bosch ✿ ^daa516
 - A Flat Place by Noreen Masud ✿
 - Time Is a Mother by Ocean Vuong
 - The Cartographers by Peng Shepherd

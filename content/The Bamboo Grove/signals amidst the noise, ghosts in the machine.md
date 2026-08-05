@@ -1,5 +1,5 @@
 ---
-title: signals amidst the noise, ghosts in the machine
+title: signals amidst the noise, ghosts in the machine꩜
 draft: false
 tags:
 date: 2025-12-11T13:00:00
@@ -10,6 +10,7 @@ thinking critically about tech
 - [[technology is built from, relies on, and irrevocably grounded in the material.]]
 - [[woven technologies]]
 - [[School of Alternate Internets 2026]]
+- [[thinking about tech! move slow & tend to things]]
 
 materials
 - [[Empire of AI Dreams and Nightmares in Sam Altman's OpenAI]]

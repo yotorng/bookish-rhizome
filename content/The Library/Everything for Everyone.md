@@ -38,7 +38,7 @@ Everything for Everyone is an earnest endeavour towards a history of the future,
 - chap 3(free assembly): We had this format to raise and hold conflict and it mostly helped. At least to get people to tolerate each other.
 - chap 6: Kids need both support and space to figure things out, and the shape of that space needs to change and grow as the kid grows.
 - chap 8: the past doesn't go anywhere. it's with us all the time. it's in me, in my head, in the ground, in the air. the past is right here.
-- chap 10: centering...[[permaculture| maximising ecological niches, biodiversity and variation through combining self-sustaining processes and deliberate intervention]]
+- chap 10: centering...[[touching grass| maximising ecological niches, biodiversity and variation through combining self-sustaining processes and deliberate intervention]]
 - chap 10: balancing autonomy, accountability and sovereignty in land use decisions
 - chap 10: production councils also include crews who maintain water, power, waste, and communications infrastructure ; agricultural collectives, cooperatives of individual producers ; guilds of skilled service providers;and a few fully automated AI-run manufacturing firms.
 - chap 12: collective decisions need to be local both temporally and geographically. You need to be able to adapt as new tech emerges, as environments shift, and so on. 
