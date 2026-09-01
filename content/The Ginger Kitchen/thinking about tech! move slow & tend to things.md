@@ -55,7 +55,7 @@ This post really stems from an ongoing attempt to grapple with my own grievances
 
 And yet - dream we must! I'm trying to find pockets of resistance, pluralism, inspiration and joy amidst it all. To move slow, and mend things[^5] with technology.  
 ⚘ Reclaiming and rethinking technology! [Developh](tab:https://developh.org/) is a powerhouse. I also really like the work of [Feelers](tab:https://www.feelers-feelers.com/), a local art and tech label.  
-⚘ [Permacomputing](tab:https://permacomputing.net/)—which stems from the concept of [[touching grass]]—is "a concept and a community of practice oriented around issues of resilience and regenerativity in computer and network technology". A lovely example is the [Low Tech Magazine](tab:https://solar.lowtechmagazine.com/), powered by solar power.
+⚘ [Permacomputing](tab:https://permacomputing.net/)—which stems from the concept of [[to plant a garden is to believe in tomorrow]]—is "a concept and a community of practice oriented around issues of resilience and regenerativity in computer and network technology". A lovely example is the [Low Tech Magazine](tab:https://solar.lowtechmagazine.com/), powered by solar power.
 
 ![Screenshot-2024-08-26-at-11-38-20-PM.png](https://i.postimg.cc/G3TnSTMJ/Screenshot-2024-08-26-at-11-38-20-PM.png)
 

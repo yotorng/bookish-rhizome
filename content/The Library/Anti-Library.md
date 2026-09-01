@@ -9,7 +9,7 @@ _Books on my radar that I've yet to read...a non-exhaustive list!_
 
 trying to curate some sort of a thematic reading list/syllabus shaped loosely around my interests. titles that are striked through have been read!
 
-last updated: 17/11/2025
+last updated: 01/09/2026
 # non-tech bro tech syllabus  
 
 ^a227f2
@@ -53,11 +53,14 @@ how do we think critically about tech? locating [[signals amidst the noise, ghos
 2. [We Are Not The Enemy: The Practice of Advocacy in Singapore](https://www.ethosbooks.com.sg/products/we-are-not-the-enemy-the-practice-of-advocacy-in-singapore) edited by Constance Singham & Margaret Thomas
 3. [Practical Anarchism: A Guide for Daily Life](https://www.plutobooks.com/9780745344928/practical-anarchism/) by Scott Branson
 4. [Liquid Times: Living in an Age of Uncertainty](https://www.politybooks.com/bookdetail?book_slug=liquid-times-living-in-an-age-of-uncertainty--9780745639871) by Zygmunt Bauman
+5. [Counter-Cartographies: Reading Singapore Otherwise](https://liverpooluniversitypress.co.uk/doi/book/10.3828/9781802074475) by Joanne Leow
 
-# fiction
+# games
+1. [The Rules We Break](https://theruleswebreak.com/index.html) by Eric Zimmerman
+2. [Playing Nature: Ecology in Video Games](https://www.jstor.org/stable/10.5749/j.ctvthhd94) by Alenda Y. Chang
+3. [Games: Agency as Art](https://academic.oup.com/book/32137?login=false) by C Thi Nguyen
 
-1. [The Island of Sea Women](https://lisasee.com/books/the-island-of-sea-women/) by Lisa See
-2. ~~[The Death of Vivek Oji](https://www.akwaeke.com/the-death-of-vivek-oji) by Akwaeke Emezi~~
+
 
 [^1]: well this technically /is/ a tech-bro book.
 

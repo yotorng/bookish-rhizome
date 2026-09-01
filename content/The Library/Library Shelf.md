@@ -9,11 +9,12 @@ _Books that I have read._
 ✿ : favourites  
 ⋆⁺₊⋆ ☀︎ ⋆⁺₊⋆↟↟↟𖠿 𖤣𖤥𖡼.𖤣𖥧
 # currently reading...
-- *paused for now*: [[touching grass|Permaculture]]: Principles & Pathways Beyond Sustainability by David Holmgren
+- *paused for now*: [[to plant a garden is to believe in tomorrow|Permaculture]]: Principles & Pathways Beyond Sustainability by David Holmgren
 - *paused for now*: Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence by Kate Crawford
 -  *paused for now*: [[Working in Public|Working in Public: The Making and Maintenance of Open Source Software]] by Nadia Asparouhova
-- [[The Death and Life of Great American Cities]] by Jane Jacobs
-- Emergent strategy: Shaping Change, Changing Worlds
+- *paused for now*:[[The Death and Life of Great American Cities]] by Jane Jacobs
+- [[Emergent Strategy|Emergent Strategy: Shaping Change, Changing Worlds]] by adrienne maree brown
+- Wayward Lives, Beautiful Experiments: Intimate Histories of Riotous Black Girls, Troublesome Women and Queer Radicals by Saidiya Hartman
 
 # 2026
 - Minor Detail by Adania Shibli
@@ -34,6 +35,7 @@ _Books that I have read._
 - She Who Remains by Rene Karabash
 - Strange Houses by Uketsu
 - Names Have Been Changed by Yu-Mei Balasingamchow
+- Warmth: Coming of Age at the End of the World by Daniel Sherrell
 # 2025
 - Sister Snake by Amanda Lee Koe
 - Weather by Jenny Offill
