@@ -8,8 +8,8 @@ date: 2026-05-15T20:00:00
 # Library visit: for my stories 
 - reframe library users as customers, but not solely in the traditional, transactional sense
 - instead, think about how they r choosing to spend their time and attention with the library
-	- currency as attention, but it is something we have to earn, not so freely given
-- measure of success (!!!) --> cumulative time spent with you
+	- **currency as attention**, but it is something we have to earn, not so freely given
+- measure of success (!!!) --> **cumulative time** spent with you
 	- creation of habits
 - collections/creation can go hand in hand
 - [in the context of the makerspace]collections/books come naturally as an activity 
@@ -32,14 +32,19 @@ sepuma 
 - a change in identity makes a change in life
 - youth at risk, you usually see their behaviours - bad behaviour has to stop, but you need to see what's beyond that
 - many youth identify themselves as failure , and keep thinking themselves as this way
-- sepuma wants to change this "fallen identiy" - you are nt a failure, put a new identity on themselves
-- message imbued in the space - you are safe, protected, and you are ready to go again
-- the meaning is also imbued in the library
-- let them create their own story
+- sepuma wants to change this "fallen identity" - you are not a failure, put a new identity on themselves
+	- message imbued in the space - you are safe, protected, and you are ready to go again
+	- the meaning is also imbued in the library
+	- let them create their own story
+	- labelling and addressing them as authors - an undercurrent of empowerment
+	- small actions scattered everywhere in the library
+		- listen to the teens and change up the space
+		- reading with and spending time with the author
+		- 'this is your work - cherish it!'
 - new questions - why are they reoffending?
 - it's Not about correction, but transforming
-- not isolation, but reconnection
-- harm reduction approach
+	- not isolation, but reconnection
+	- harm reduction approach
 - holistic change, not just isolated to education system
 - opportunity to meet new ppl, new experiences, new spaces
 - society labels -impt, shapes the way they see themselves
@@ -75,4 +80,89 @@ based on the comments/data collected - they will refresh the space 
 
 # opening ceremony
 - live music to introduce people
-- 
+- bringing a reusable cup
+- "saekdong knot" -> visual cue/colourful note for people to locate help/support easily
+- next -> this idea of being a little within reach, but still looking forward
+	- next best > best
+- loose perfection
+- 'it is very professional to have fun'
+- all libraries benefit from broadening their perspectives of the world
+
+# sensing layers of the world: how inclusivity becomes narratives
+keynote, 21 May, Bora Lee-Kil, filmmaker, writer, founder of CODA Korea
+- Moving between silence and sound, deaf and hearing culture
+- sensing these layers between signed and spoken language
+- CODA: Children of deaf adults
+	- a form of bilingualism and biculturalism
+	- Sign language -> 3D, moving language
+- Doors in the house are open as the norm
+- Deaf culture: eye contact is needed ; hearing culture(in Korea): making eye contact with a teacher can be deemed as rude
+- from young, having to make decisions about whether or not to interpret hearing something unpleasant to their parents
+- what if having a deaf baby is a reason to celebrate?
+	- not just a disability issue, but reframing it as a culture and living heritage
+- CODA: not just between the 2 worlds of hearing and dead, but a subset of the deaf community!!
+	- you don't have to be deaf to share the heritaeg and culture of the deaf community
+
+# ignite talks
+- Indigenous metadata cataloguing
+	- relationality is important in indigenous culture
+	- rather than A-Z, collections are shelved and organised based on geography, where neighbouring collections are organised together
+- concept of walking books -> audiobooks perfect while you go on short walks
+
+# solarpunk: playing with the sun
+- QR code and machines, powered by sun/light
+- capturing and representing others' idea
+- dancing with the solar panel
+- create an invitation for them to play, open-ended
+- criteria of success: no one creates the same thing
+- diversity of solutions, collective creativity
+- network of practitioners and prototypes - slow solutions, from prototypes to products
+- context - solar in singapore, cloudy/sunny
+	- good for playing, changes in weather create dynamic conditions!
+
+# microlibrary
+- local design languages
+- a library is never standalone, but always in conversation with the surrounding environment
+- library isnt contained
+
+# library field
+- network of library, but also recognise the intersections between different fields
+- can we co-design progress?
+- institutions pull from what is out there, make choices from its context and surroundings
+- inquire from the existing field (out there) -> where is the library present, what can we draw from them?
+- prompts (what people do in the library)
+	- name something
+	- describe relationship between 2 things
+	- interrogate the unfamiliar
+	- make an agreement with someone else
+	- offer your own prompt
+
+# how does a library become 'our place'?
+Nobuo Yoshinari
+- "Ibasho" - places of belonging for diverse people
+- nowhere for children to just be in the local community
+- if a public library were truly open to a town, it should be a space of belonging
+- in libraries - we focus on rules, not focus on users' needs
+	- you are constantly reminded to be well-behaved
+- Gifu City - urban revitalisation project, but childrent first as the core policy
+	- Toyo Ito ; Gifu MEdian Cosmos
+	- no walls
+	- challenging the norms attached to a library
+	- Architect designed the space to be open and allow for interactions
+	- Built by the citizens - most prominent space in the library - encourage local residents to curate and set up their recommended book
+	- Adult night school - for people who just moved/young people to learn more about Gify
+- Third place
+	- child libn radio project - let kids produce their own monthly radio programme, broadcast it on local FM sttations
+	- 'listen to the cries of the heart' - anon penpal, testing how far an adult can speak
+- population-visitorship ratio
+- library as a business model that builds relationships through information
+	- not just self-contained within its walls, but opens itself up to the town
+- library as a park with a roof that connects people and the town through books
+	- chance encounters, happy accidents are impt aspects
+- living joyfully and richly by participating - build up pride
+- place that inspires action - once you find the information, you are encouraged to step outside, move and engage with the town
+
+# prototyping library futures
+by state library of victoria: https://lab.slv.vic.gov.au/
+experiments, sharing online, documentation & publishing
+

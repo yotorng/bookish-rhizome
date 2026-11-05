@@ -36,6 +36,7 @@ how do we think critically about tech? locating [[signals amidst the noise, ghos
 19. [The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World](https://www.versobooks.com/en-gb/products/2684-the-palestine-laboratory) by Antony Loewenstein
 20. [Automating Inequality](https://virginia-eubanks.com/automating-inequality/) by Virginia Eubanks
 21. [The Long Heat: Climate Politics When It’s Too Late](https://www.versobooks.com/en-gb/products/3317-the-long-heat) by Wim Carton and Andreas Malm
+22. [Prophecy: Prediction, Power, and the Fight for the Future, from Ancient Oracles to AI ](https://www.carissaveliz.com/prophecy)by Carissa Véliz
 
 # more-than-human frames
 

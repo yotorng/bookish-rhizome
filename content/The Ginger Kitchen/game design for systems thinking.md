@@ -1,5 +1,5 @@
 ---
-title: games design for systems thinking
+title: game design for systems thinking
 draft: false
 tags:
 date: 2026-09-01T11:00:00
@@ -43,7 +43,7 @@ Modelling ≠ understanding
 - Interactivity of a game allows different actors to **experiment with hypothetical interventions and understand system properties**
 
 ## An experimental container **_(people pov)_**
-- Invite people to inhabit different perspectives, perhaps unlearn assumptions, and intervene in a problem/system as active players
+- Invite people to inhabit [[The Score How to Stop Playing Somebody Else's Game#^b0b873|different perspectives]], perhaps unlearn assumptions, and intervene in a problem/system as active players
 	- e.g. working selfishly or selflessly within a system
 - Reframe the notion of playing to **win**
 	- What does **winning** mean?
@@ -227,12 +227,13 @@ Sometimes it's more useful to represent the dynamics and tensions of a system in
 
 ### Procedural rhetoric: Win conditions, rules, scoring and valuation
 
-What does winning mean? What does it **represent**?
+What does [[The Score How to Stop Playing Somebody Else's Game#^c36cf4|winning mean]]? What does it **represent**?
 Understand how models skew behaviour
 The rules…which then begs the question of what is **meaningful play**
 Marrying your quantitative values(i.e. scoring) and values(i.e. principles)
 - Scoring is seductive, but it can also mask
 - Valuation is inherently an imaginative act → helps to also account for variance in people's perceptions
+- See [[The Score How to Stop Playing Somebody Else's Game]]
 
 ### On the value of simplicity:
 

@@ -15,6 +15,9 @@ _Books that I have read._
 - *paused for now*:[[The Death and Life of Great American Cities]] by Jane Jacobs
 - [[Emergent Strategy|Emergent Strategy: Shaping Change, Changing Worlds]] by adrienne maree brown
 - Wayward Lives, Beautiful Experiments: Intimate Histories of Riotous Black Girls, Troublesome Women and Queer Radicals by Saidiya Hartman
+- [[The Score How to Stop Playing Somebody Else's Game|The Score]] by C Thi Nguyen
+- Imagination bv Ruha Benjamin
+- Figuring by Maria Popova
 
 # 2026
 - Minor Detail by Adania Shibli
@@ -35,7 +38,12 @@ _Books that I have read._
 - She Who Remains by Rene Karabash
 - Strange Houses by Uketsu
 - Names Have Been Changed by Yu-Mei Balasingamchow
-- Warmth: Coming of Age at the End of the World by Daniel Sherrell
+- [[Warmth|Warmth: Coming of Age at the End of the World]] by Daniel Sherrell
+- [[We Saw Mountains]] by Diana Rahim ✿ 
+- The Trees Witness Everything by Victoria Chang
+- Snakes of Singapore: A Slightly Unhinged Field Guide by Juliette Yu-Ming Lizeray
+- Self-made: Creative Lives in Southeast Asia by Stephanie Peh
+- Project Hail Mary by Andy Weir
 # 2025
 - Sister Snake by Amanda Lee Koe
 - Weather by Jenny Offill
